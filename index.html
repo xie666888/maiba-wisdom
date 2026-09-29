@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>麦爸的思想智慧库</title>
+  <meta name="description" content="麦爸出品，必属精品 —— 一份可按主题、性价比、成本维度筛选的个人智慧合集。" />
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="brand">
+      <span class="logo">🜂</span>
+      <div>
+        <h1>麦爸的思想智慧库</h1>
+        <p class="tagline">麦爸出品，必属精品 · 一份能筛选的个人智慧合集</p>
+      </div>
+    </div>
+    <nav class="topnav">
+      <a href="./">首页</a>
+      <a href="https://github.com/xie666888/maiba-wisdom" target="_blank" rel="noopener">GitHub</a>
+      <a href="README.md" target="_blank">说明</a>
+    </nav>
+  </header>
+
+  <div class="layout">
+    <aside class="sidebar" id="sidebar">
+      <div class="search-box">
+        <input type="search" id="search" placeholder="搜关键词 / 标签…" autocomplete="off" />
+      </div>
+      <div id="filters"><!-- 筛选器由 app.js 动态生成 --></div>
+      <button class="clear-btn" id="clearFilters">清空筛选</button>
+    </aside>
+
+    <main class="content">
+      <div class="result-bar">
+        <span id="count">加载中…</span>
+        <button class="toggle-sidebar" id="toggleSidebar">筛选 ▾</button>
+      </div>
+      <ul class="entry-list" id="entryList"></ul>
+      <p class="empty-hint" id="emptyHint" hidden>没有匹配的条目。去掉一个筛选条件，或换个更短的关键词。</p>
+    </main>
+  </div>
+
+  <footer class="site-footer">
+    <span>内容持续整理中 · 每条智慧来自麦爸的实战与复盘</span>
+  </footer>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>

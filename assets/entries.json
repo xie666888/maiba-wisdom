@@ -1,0 +1,280 @@
+{
+  "generated": "2026-09-29T01:09:09.547Z",
+  "count": 10,
+  "entries": [
+    {
+      "id": "ai-empower",
+      "title": "用 AI 赋能具体生意，而不是追 AI 玩具",
+      "theme": "AI赋能",
+      "level": "极高",
+      "value": [
+        "钱",
+        "时间精力"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "顺手"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "AI",
+        "生意",
+        "提效"
+      ],
+      "date": "2026-08",
+      "order": 1,
+      "body": "<p>判断一条 AI 用法值不值的唯一标准：<strong>它替你省下或赚到的，是不是你生意里真实存在的一环</strong>。</p><ul><li>写朋友圈文案、做客服话术、整理客户标签、把聊天记录转成成交剧本——这些是你每天真在干的事，值得用 AI 提速。</li><li>追新出的炫酷模型、玩和自己生意无关的 demo——那是玩具，爽完没沉淀。</li></ul><p><strong>说人话</strong>：AI 是放大器，不是方向。先想清楚你要放大的那个&quot;生意环节&quot;是什么，再让 AI 去干它。</p>",
+      "source": "01-ai-empower.md"
+    },
+    {
+      "id": "one-person-company",
+      "title": "把自己当一家公司来经营（一人公司）",
+      "theme": "一人公司",
+      "level": "高",
+      "value": [
+        "人身自由",
+        "钱"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "一人公司",
+        "第二曲线",
+        "AI"
+      ],
+      "date": "2026-08",
+      "order": 2,
+      "body": "<p>主业之外，用 AI 做第二增长曲线，把自己当一家公司来经营。一家公司至少要跑通四件事：</p><ol><li><strong>产品/服务</strong>：你能交付什么有价值的东西。</li><li><strong>获客</strong>：谁来知道你、信任你。</li><li><strong>成交</strong>：对方为什么现在掏钱。</li><li><strong>交付</strong>：交出去之后怎么沉淀复购和转介绍。</li></ol><p>四件事各自做出最小闭环，再串起来，就是一人公司的骨架。不用雇人，用 AI 把重复动作吃掉。</p><p><strong>说人话</strong>：别只盯着&quot;副业挣零花&quot;，要攒一条可复用、能离开你主业也成立的资产型收入。</p>",
+      "source": "02-one-person-company.md"
+    },
+    {
+      "id": "pyq-as-corpus",
+      "title": "把朋友圈炼成 AI 语料库",
+      "theme": "内容资产",
+      "level": "高",
+      "value": [
+        "钱"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "每天占用"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "朋友圈",
+        "内容资产",
+        "AI语料"
+      ],
+      "date": "2026-08",
+      "order": 3,
+      "body": "<p>朋友圈不是碎碎念，是你的人设语料库。持续导出、结构化之后，它就是一份可复用的内容资产：</p><ul><li>喂给 AI，生成你的深度画像、IP 英雄之旅故事；</li><li>提炼成营销体检报告，看出自己哪条内容在成交、哪条在自嗨；</li><li>复用成课程、产品文案、成交剧本的母素材。</li></ul><p><strong>说人话</strong>：你每天发的朋友圈，半年后就是一份别人没有、也抄不走的素材库。现在不存，等于白发。</p>",
+      "source": "03-pyq-as-corpus.md"
+    },
+    {
+      "id": "passive-sales",
+      "title": "被动销售四季模型（让客户自己被成交）",
+      "theme": "被动销售",
+      "level": "高",
+      "value": [
+        "钱"
+      ],
+      "spend_money": [
+        "少花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "被动销售",
+        "成交",
+        "何成兵"
+      ],
+      "date": "2026-09",
+      "order": 4,
+      "body": "<p>何成兵的四季轮回模型：把客户按认知深度分成四档，按等级解锁，而不是一上来硬推。</p><ul><li><strong>认知季</strong>：让客户看见问题存在。</li><li><strong>成交实战营</strong>：教方法，建立信任。</li><li><strong>私教 MVP</strong>：带着做，拿到结果。</li><li><strong>战略班</strong>：陪跑长期，深度绑定。</li></ul><p>客户是被吸引、被教育、被成交的，不是被推销的。</p><p><strong>说人话</strong>：你越想&quot;推&quot;成交，越推不动；把台阶铺好，客户自己会走上来。</p>",
+      "source": "04-passive-sales.md"
+    },
+    {
+      "id": "confirm-info-gap",
+      "title": "先确认信息差，再动手分析",
+      "theme": "方法论",
+      "level": "极高",
+      "value": [
+        "认知"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "顺手"
+      ],
+      "spend_will": [
+        "不用毅力"
+      ],
+      "tags": [
+        "信息差",
+        "方法论",
+        "分析"
+      ],
+      "date": "2026-08",
+      "order": 5,
+      "body": "<p>拿到需求别急着给方案。先确认一件事：<strong>你掌握的信息，和对方掌握的是不是同一份</strong>。</p><ul><li>同一份 → 直接分析。</li><li>有缺口 → 先把缺口补齐（问清楚、查清楚），再分析。</li></ul><p>信息差没对齐就分析，等于在沙子上盖楼，结论越漂亮越危险。</p><p><strong>说人话</strong>：宁可多问一句&quot;你说的 X 是指……吗&quot;，也别基于自己的假设替对方做决定。</p>",
+      "source": "05-confirm-info-gap.md"
+    },
+    {
+      "id": "pyq-three-missing",
+      "title": "朋友圈三大痛点：无频率、无产品结构、无自动成交设计",
+      "theme": "内容资产",
+      "level": "高",
+      "value": [
+        "钱"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "顺手"
+      ],
+      "spend_will": [
+        "不用毅力"
+      ],
+      "tags": [
+        "朋友圈",
+        "诊断",
+        "成交"
+      ],
+      "date": "2026-09",
+      "order": 6,
+      "body": "<p>给客户做朋友圈诊断，九成逃不出这三点：</p><ol><li><strong>无频率</strong>：想发才发，粉丝记不住你。</li><li><strong>无产品结构</strong>：只有碎内容，没有引流品→升单品→利润品的阶梯。</li><li><strong>无自动成交设计</strong>：内容发了就沉了，没有钩子、没有路径、没有跟进。</li></ol><p>诊出这三点，就是升单的主桥——客户自己会问&quot;那我该怎么改&quot;。</p><p><strong>说人话</strong>：朋友圈不是发爽就行，它是一台该有结构的成交机器。</p>",
+      "source": "06-pyq-three-missing.md"
+    },
+    {
+      "id": "second-curve",
+      "title": "用半年试错期，攒一条资产型第二曲线",
+      "theme": "一人公司",
+      "level": "高",
+      "value": [
+        "钱",
+        "人身自由"
+      ],
+      "spend_money": [
+        "少花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "很多毅力"
+      ],
+      "tags": [
+        "第二曲线",
+        "试错",
+        "资产"
+      ],
+      "date": "2026-08",
+      "order": 7,
+      "body": "<p>做一人公司，动机是主业之外的第二增长曲线。给自己设一个<strong>半年试错期</strong>：</p><ul><li>愿投入时间、AI token、向老师学习的成本；</li><li>允许前几个月不赚钱，但每条动作都要留下可复用资产（内容、流程、客户名单）；</li><li>半年后复盘：哪条链路真跑通了，就加码；哪条是假勤奋，就砍。</li></ul><p><strong>说人话</strong>：试错不是瞎忙，是给&quot;未来可复利的事&quot;交学费，而且每笔学费都要留下东西。</p>",
+      "source": "07-second-curve.md"
+    },
+    {
+      "id": "value-shaping",
+      "title": "成交前，先用价值塑造器说清\"为什么是你",
+      "theme": "客户经营",
+      "level": "高",
+      "value": [
+        "钱"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "价值塑造",
+        "谈单",
+        "成交"
+      ],
+      "date": "2026-09",
+      "order": 8,
+      "body": "<p>客户不买单，常常不是贵，是没想清&quot;为什么是你&quot;。价值塑造器干一件事：把客户模糊的需求，翻译成<strong>他可感知的收益</strong>。</p><ul><li>不说&quot;我懂 AI&quot;，说&quot;你朋友圈 3 个月能多出 10 条能成交的内容&quot;；</li><li>不说&quot;我能陪跑&quot;，说&quot;你卡住的那个环节，本周就有可交付的结果&quot;。</li></ul><p>谈单效率直接翻倍，因为客户在听的时候已经替自己下了决心。</p><p><strong>说人话</strong>：先帮客户把账算明白，成交是算完之后的自然动作。</p>",
+      "source": "08-value-shaping.md"
+    },
+    {
+      "id": "process-first",
+      "title": "流程先跑通，再谈优化",
+      "theme": "方法论",
+      "level": "高",
+      "value": [
+        "时间精力"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "顺手"
+      ],
+      "spend_will": [
+        "不用毅力"
+      ],
+      "tags": [
+        "流程",
+        "最小化",
+        "优化"
+      ],
+      "date": "2026-08",
+      "order": 9,
+      "body": "<p>别一上来追求完美。先用<strong>最小动作</strong>把整条链路跑通一遍：</p><ol><li>找到真正卡住的环节（不是你以为卡的那个）；</li><li>只优化那个环节；</li><li>跑第二轮，再看下一个卡点。</li></ol><p>在没跑通过全链路之前，任何&quot;打磨&quot;都是在无谓的地方烧时间。</p><p><strong>说人话</strong>：能跑通的丑方案，胜过停在脑子里的完美方案。</p>",
+      "source": "09-process-first.md"
+    },
+    {
+      "id": "knowledge-as-asset",
+      "title": "知识库即资产：让笔记可检索、可复用",
+      "theme": "内容资产",
+      "level": "高",
+      "value": [
+        "认知",
+        "钱"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "每天占用"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "知识库",
+        "Obsidian",
+        "资产"
+      ],
+      "date": "2026-08",
+      "order": 10,
+      "body": "<p>用 Obsidian 管理知识库，关键不是&quot;记了多少&quot;，是&quot;能不能找回来、用得上&quot;：</p><ul><li>统一 frontmatter（周次 / 类型 / 状态 / 关键词），让笔记可被筛选；</li><li>用反链把笔记挂到活动页和总览页，零散点连成网；</li><li>写下的东西要能回流到产品、文案、成交——否则就是写完就沉底。</li></ul><p><strong>说人话</strong>：知识库不是日记本，是用来产出的生产线。连不上的笔记，等于没写。</p>",
+      "source": "10-knowledge-as-asset.md"
+    }
+  ]
+}
