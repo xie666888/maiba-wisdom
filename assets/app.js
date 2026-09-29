@@ -6,7 +6,7 @@
   var DIMS = [
     { key: "theme", label: "主题", order: [] },
     { key: "level", label: "性价比", order: ["极高", "高", "一般"] },
-    { key: "value", label: "换回什么", order: ["钱", "时间精力", "人身自由", "认知"] },
+    { key: "value", label: "换回什么", order: ["钱", "时间精力", "人身自由", "认知", "关系", "内心"] },
     { key: "spend_money", label: "花钱", order: ["不花钱", "少花钱", "多花钱"] },
     { key: "spend_time", label: "花时间", order: ["顺手", "几小时", "每天占用"] },
     { key: "spend_will", label: "要毅力", order: ["不用毅力", "一点毅力", "很多毅力"] }
