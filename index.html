@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>麦爸的思想智慧库</title>
-  <meta name="description" content="麦爸出品，必属精品 —— 一份可按主题、性价比、成本维度筛选的个人智慧合集。" />
+  <meta name="description" content="麦爸出品，必属精品 —— 我的智慧 + 读书外脑，一份能筛选的个人智慧合集。" />
   <link rel="stylesheet" href="assets/style.css" />
 </head>
 <body>
@@ -13,7 +13,7 @@
       <span class="logo">🜂</span>
       <div>
         <h1>麦爸的思想智慧库</h1>
-        <p class="tagline">麦爸出品，必属精品 · 一份能筛选的个人智慧合集</p>
+        <p class="tagline">麦爸出品，必属精品 · 一半是自己的实战复盘，一半是读来的书</p>
       </div>
     </div>
     <nav class="topnav">
@@ -23,11 +23,14 @@
     </nav>
   </header>
 
+  <nav class="tabs" id="tabs"><!-- 双库切换由 app.js 生成 --></nav>
+
   <div class="layout">
     <aside class="sidebar" id="sidebar">
       <div class="search-box">
         <input type="search" id="search" placeholder="搜关键词 / 标签…" autocomplete="off" />
       </div>
+      <div class="progress" id="progress"></div>
       <div id="filters"><!-- 筛选器由 app.js 动态生成 --></div>
       <button class="clear-btn" id="clearFilters">清空筛选</button>
     </aside>
@@ -35,7 +38,10 @@
     <main class="content">
       <div class="result-bar">
         <span id="count">加载中…</span>
-        <button class="toggle-sidebar" id="toggleSidebar">筛选 ▾</button>
+        <div class="result-actions">
+          <button class="ghost-btn" id="randomBtn" title="从当前筛选结果里随机抽一张">随机抽一张</button>
+          <button class="toggle-sidebar" id="toggleSidebar">筛选 ▾</button>
+        </div>
       </div>
       <ul class="entry-list" id="entryList"></ul>
       <p class="empty-hint" id="emptyHint" hidden>没有匹配的条目。去掉一个筛选条件，或换个更短的关键词。</p>
@@ -43,7 +49,7 @@
   </div>
 
   <footer class="site-footer">
-    <span>内容持续整理中 · 每条智慧来自麦爸的实战与复盘</span>
+    <span>我的智慧 · 来自麦爸的实战与复盘　|　读书外脑 · 来自成庆佛学著作的读书卡片</span>
   </footer>
 
   <script src="assets/app.js"></script>

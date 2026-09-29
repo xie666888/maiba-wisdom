@@ -9,6 +9,10 @@
   --bg: #ffffff;
   --bg-soft: #f8fafc;
   --green: #16a34a;
+  --teal: #0f766e;
+  --teal-dark: #0f5e56;
+  --teal-soft: #ecfdf5;
+  --teal-line: #a7f3d0;
   --radius: 12px;
   --shadow: 0 1px 3px rgba(15, 23, 42, .08), 0 8px 24px rgba(15, 23, 42, .04);
 }
@@ -208,6 +212,150 @@ a:hover { text-decoration: underline; }
   padding: 28px 0 40px;
 }
 
+/* ===== 双库切换 Tab（我的智慧 / 读书外脑）===== */
+.tabs {
+  max-width: 1180px;
+  margin: 18px auto -4px;
+  padding: 0 20px;
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.tab {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  border: 1px solid var(--line);
+  background: var(--bg);
+  color: var(--ink-soft);
+  border-radius: 999px;
+  padding: 9px 18px;
+  font-size: 14px;
+  font-family: inherit;
+  cursor: pointer;
+  transition: all .12s ease;
+}
+.tab:hover { border-color: var(--blue); color: var(--blue); }
+.tab.active {
+  background: var(--blue);
+  border-color: var(--blue);
+  color: #fff;
+  font-weight: 600;
+}
+.tab .tab-count {
+  font-size: 12px;
+  padding: 1px 7px;
+  border-radius: 999px;
+  background: var(--bg-soft);
+  color: var(--ink-soft);
+}
+.tab.active .tab-count { background: rgba(255, 255, 255, .26); color: #fff; }
+
+/* ===== 已读进度 ===== */
+.progress { margin-top: 16px; }
+.progress-head {
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+  color: var(--ink-soft);
+  margin-bottom: 6px;
+}
+.progress-track {
+  height: 6px;
+  border-radius: 999px;
+  background: var(--line);
+  overflow: hidden;
+}
+.progress-track i {
+  display: block;
+  height: 100%;
+  width: 0;
+  background: var(--blue);
+  transition: width .2s ease;
+}
+.progress .chip { margin-top: 10px; display: inline-block; }
+
+/* ===== 卡片已读态 ===== */
+.entry-head { position: relative; padding-right: 54px; }
+.entry.read { background: #fbfdfc; }
+.entry.read .entry-title { color: var(--ink-soft); }
+.read-toggle {
+  position: absolute;
+  top: 15px;
+  right: 16px;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  border: 1px solid var(--line);
+  background: var(--bg-soft);
+  color: transparent;
+  font-size: 13px;
+  line-height: 1;
+  font-family: inherit;
+  cursor: pointer;
+  transition: all .12s ease;
+}
+.entry-head:hover .read-toggle { color: var(--ink-soft); border-color: var(--ink-soft); }
+.entry.read .read-toggle {
+  color: #fff;
+  background: var(--green);
+  border-color: var(--green);
+}
+
+/* ===== 结果栏按钮 ===== */
+.result-actions { display: flex; align-items: center; gap: 10px; }
+.ghost-btn {
+  border: 1px solid var(--line);
+  background: var(--bg);
+  color: var(--ink);
+  border-radius: 8px;
+  padding: 6px 14px;
+  font-size: 13px;
+  font-family: inherit;
+  cursor: pointer;
+  transition: all .12s ease;
+}
+.ghost-btn:hover { border-color: var(--blue); color: var(--blue); }
+
+/* ===== 读书外脑：青色体系，与「我的智慧」一眼区分 ===== */
+.badge.book-tag {
+  background: var(--teal-soft);
+  border-color: var(--teal-line);
+  color: var(--teal);
+  font-weight: 600;
+}
+body[data-collection="book"] .site-header {
+  background: linear-gradient(120deg, var(--teal) 0%, var(--teal-dark) 100%);
+}
+body[data-collection="book"] .brand .logo { color: var(--teal-dark); }
+body[data-collection="book"] .tab.active,
+body[data-collection="book"] .chip.active {
+  background: var(--teal);
+  border-color: var(--teal);
+}
+body[data-collection="book"] .tab:hover,
+body[data-collection="book"] .chip:hover,
+body[data-collection="book"] .ghost-btn:hover,
+body[data-collection="book"] .clear-btn:hover {
+  border-color: var(--teal);
+  color: var(--teal);
+}
+body[data-collection="book"] .search-box input:focus { border-color: var(--teal); }
+body[data-collection="book"] .entry-title .idx { color: var(--teal); }
+body[data-collection="book"] .progress-track i { background: var(--teal); }
+body[data-collection="book"] .entry-body h3,
+body[data-collection="book"] .entry-body h4 { color: var(--teal); }
+body[data-collection="book"] .entry-body blockquote {
+  border-left-color: #5eead4;
+  background: #f0fdfa;
+  color: #134e4a;
+}
+.mode-book .badge.theme {
+  background: var(--teal-soft);
+  border-color: var(--teal-line);
+  color: var(--teal);
+}
+
 /* ===== Responsive ===== */
 @media (max-width: 820px) {
   .layout { grid-template-columns: 1fr; }
@@ -217,4 +365,6 @@ a:hover { text-decoration: underline; }
   }
   .sidebar.show { display: block; }
   .toggle-sidebar { display: inline-block; }
+  .tabs { margin-top: 14px; }
+  .entry-head { padding-right: 50px; }
 }

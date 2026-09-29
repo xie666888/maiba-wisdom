@@ -1,9 +1,25 @@
 {
-  "generated": "2026-09-29T01:35:20.656Z",
-  "count": 30,
+  "generated": "2026-09-29T06:51:53.627Z",
+  "count": 84,
+  "collections": [
+    {
+      "id": "self",
+      "label": "我的智慧",
+      "hint": "提炼自麦爸本人在微信群里的发言",
+      "count": 30
+    },
+    {
+      "id": "book",
+      "label": "读书外脑",
+      "hint": "成庆佛学著作的读书卡片，与我的智慧分开存放",
+      "count": 54
+    }
+  ],
   "entries": [
     {
       "id": "ai-compress",
+      "collection": "self",
+      "origin": "self",
       "title": "AI 把「团队几个月」压缩成「一个人两个晚上」",
       "theme": "AI与工具",
       "level": "极高",
@@ -27,11 +43,18 @@
       ],
       "date": "2026-08",
       "order": 1,
+      "book": "",
+      "bookShort": "",
+      "author": "",
+      "chapter": "",
+      "kicker": "",
       "body": "<p>朋友要做一场女性成长主题的线上展览馆：多个分会场、可留言、可投票、可预约喜欢的分享。 按以往了解，这样一个网站正常开发大约要两个月。</p><p>我借助 AI，只用了<strong>两个晚上</strong>就做出来了。</p><p>那一刻我意识到：过去需要一个团队、几个月才能完成的东西，现在一个人配合 AI 就能落地。 我过去积累的一切——计算机的底子、18 年 IT 经验、喜欢钻研的性格、帮别人把想法变成现实的能力—— 第一次和他人的需要真正连成了线。</p><p><strong>说人话</strong>：AI 不是替你干活，是把&quot;这事值不值得做&quot;的门槛砸掉了。以前想想就放弃的需求，现在值得先动手试一晚。</p><blockquote>源自 · 麦爸战略陪跑周三12:00（二阶） 2026-08-04</blockquote>",
       "source": "01-ai-compress.md"
     },
     {
       "id": "ai-three-step",
+      "collection": "self",
+      "origin": "self",
       "title": "AI 赋能一个行业，就三步：建档案 → 自动归档 → 一键生成",
       "theme": "AI与工具",
       "level": "高",
@@ -55,11 +78,18 @@
       ],
       "date": "2026-07",
       "order": 2,
+      "book": "",
+      "bookShort": "",
+      "author": "",
+      "chapter": "",
+      "kicker": "",
       "body": "<p>拿心理咨询这个垂直行业举例，AI 落地全流程只有三步：</p><ul><li><strong>咨询前：建专属档案</strong>。给每位来访者一个独立文件夹，存过往录音、文字记录、作业完成情况。让 AI 提前读全部历史，生成本次重点提示（如&quot;上次提到职场冲突后失眠，本次优先探讨情绪与睡眠的关联&quot;），并附上上次作业复盘——开场就切中要害。</li><li><strong>咨询中：实时录音自动归档</strong>。在来访者文件夹里直接开录音，结束自动保存，不用手动整理。</li><li><strong>咨询后：一键生成方案</strong>。让 AI 结合本次内容与历史档案，产出三份材料：精简咨询总结、7 天分阶段练习计划、精准匹配的资源清单（书籍章节 / 科普文章 / 练习视频，并标注&quot;对应本次提到的哪个场景&quot;）。</li></ul><p><strong>说人话</strong>：别问&quot;AI 能干什么&quot;，问&quot;我这一行哪一环最耗时间&quot;。把那一环交给 AI，剩下的才是你真正值钱的部分。</p><blockquote>源自 · 麦爸的私教群 2026-07-25</blockquote>",
       "source": "02-ai-three-step.md"
     },
     {
       "id": "funnel",
+      "collection": "self",
+      "origin": "self",
       "title": "变现要有漏斗：低价品负责带人进门，不负责赚钱",
       "theme": "变现与商业",
       "level": "高",
@@ -82,11 +112,18 @@
       ],
       "date": "2026-07",
       "order": 3,
+      "book": "",
+      "bookShort": "",
+      "author": "",
+      "chapter": "",
+      "kicker": "",
       "body": "<p>一条跑通的产品阶梯长这样：</p><ol><li><strong>199 元</strong>「IP 朋友圈内容资产」——引流品，负责让人认识你；</li><li>买完送 <strong>200 元抵用券</strong>，自然导入 <strong>520 元</strong>被动销售训练营——中端品，负责建立信任；</li><li>训练营里再筛选，转化到 <strong>12800 元</strong>的高端商业体系——利润品。</li></ol><p>后端还可以把通用的知识库当赠品，零成本交付，但用户觉得值。</p><p><strong>说人话</strong>：别指望一个产品赚所有的钱。低价让人进门，中价建立信任，高价才是利润——每一级都要让用户看得见&quot;下一站&quot;在哪。</p><blockquote>源自 · 麦爸战略陪跑周三12:00（二阶） 2026-07-29</blockquote>",
       "source": "03-funnel.md"
     },
     {
       "id": "price-down-value-up",
+      "collection": "self",
+      "origin": "self",
       "title": "降价不降价值：用高感知、低成本的东西补偿老用户",
       "theme": "变现与商业",
       "level": "高",
@@ -110,11 +147,18 @@
       ],
       "date": "2026-07",
       "order": 4,
+      "book": "",
+      "bookShort": "",
+      "author": "",
+      "chapter": "",
+      "kicker": "",
       "body": "<p>产品从 299 降到 199，理由是：这个价位更容易传播，门槛低，进来的人多。</p><p>那已经买了 299 的老用户怎么办？不能让老用户吃亏。</p><p>方案不是简单退差价，而是<strong>补送一份诊断报告</strong>—— 它的边际成本很低，但用户感知价值高；还能借这个动作和老用户重新链接、激活一次，双赢。</p><p><strong>说人话</strong>：老用户不是来讨债的，是来确认&quot;你没忘了我&quot;。给一份用心的增量，比退钱更能留住人。</p><blockquote>源自 · 麦爸战略陪跑周三12:00（二阶） 2026-07-29</blockquote>",
       "source": "04-price-down-value-up.md"
     },
     {
       "id": "knowledge-business-low-risk",
+      "collection": "self",
+      "origin": "self",
       "title": "知识付费是普通人风险最低的一次创业",
       "theme": "变现与商业",
       "level": "高",
@@ -138,11 +182,18 @@
       ],
       "date": "2026-08",
       "order": 5,
+      "book": "",
+      "bookShort": "",
+      "author": "",
+      "chapter": "",
+      "kicker": "",
       "body": "<p>开照相馆、在朋友圈卖海鲜，两次副业都失败了。我一度认命，觉得也许自己不是做生意的料。</p><p>后来才明白：<strong>不是只有开实体店、进货、装修、雇员工，才叫创业。</strong></p><p>把自己的知识、经验和方法整理出来，帮更多人解决他们的问题，同样是一门事业。 而且相比实体店，它不需要承担高额房租、装修和库存，<strong>风险更低，沉没成本也小得多</strong>。</p><p><strong>说人话</strong>：实体生意输一次，可能赔掉几年积蓄；知识生意输一次，你剩下的是一套还能再卖的方法论。</p><blockquote>源自 · 麦爸战略陪跑周三12:00（二阶） 2026-08-04</blockquote>",
       "source": "05-knowledge-business-low-risk.md"
     },
     {
       "id": "no-course-no-ip",
+      "collection": "self",
+      "origin": "self",
       "title": "无课程不 IP：课程是知识付费的基石",
       "theme": "产品与交付",
       "level": "高",
@@ -165,11 +216,18 @@
       ],
       "date": "2026-01",
       "order": 6,
+      "book": "",
+      "bookShort": "",
+      "author": "",
+      "chapter": "",
+      "kicker": "",
       "body": "<p>想一想：教你某项技能的老师，他真正用来变现的能力，是那项技能本身，还是<strong>讲课</strong>？</p><p>我见识范围内的知识付费产品，基本就三种：</p><ol><li><strong>持续更新型</strong>（如樊登读书）；</li><li><strong>课程进阶型</strong>（初阶 / 中阶 / 高阶，对应低中高客单）；</li><li><strong>课程 + 训练营</strong>。</li></ol><p>第三种是普通人最容易实现、也最可持续的一条路——既让新学员有增长，也让老学员有增长。</p><p>如果还没有自己的体系，最简单可上手的方式就是：<strong>把读过的书做成精品课</strong>。</p><p><strong>说人话</strong>：内容让人认识你，课程让人付钱给你。没有课程，流量就只是流水。</p><blockquote>源自 · 麦爸的乌托邦 2026-01-16</blockquote>",
       "source": "06-no-course-no-ip.md"
     },
     {
       "id": "school-to-park",
+      "collection": "self",
+      "origin": "self",
       "title": "交付要从「学校模式」切到「游乐园模式」",
       "theme": "产品与交付",
       "level": "极高",
@@ -193,11 +251,18 @@
       ],
       "date": "2025-11",
       "order": 7,
+      "book": "",
+      "bookShort": "",
+      "author": "",
+      "chapter": "",
+      "kicker": "",
       "body": "<p>学员留存难、收获感弱，根源常常不是内容不够，而是我们一直在<strong>填鸭</strong>而非<strong>激发</strong>。</p><ul><li><strong>学校逆人性，游乐园绽放人性</strong>——没人会拒绝在快乐中成长。</li><li>迪士尼的本质是&quot;造梦&quot;，好的交付也要帮学员圆一个梦：满足缺失、激发渴望。</li><li><strong>峰值体验是留存的关键</strong>，就像迪士尼的烟花——没有高光时刻的交付，学员早早就会离场。</li><li>游乐园百玩不厌的秘密：永远有新变化，永远给人&quot;下一次更精彩&quot;的期待。</li><li>交付的底层不是&quot;堆权益&quot;，而是给学员清晰的<strong>通关路径</strong>，让成长看得见、摸得着。</li><li>全员共创的交付才够鲜活：学员不是听众，是游乐园的共建者。</li><li>做 IP 要当&quot;导游&quot;或&quot;导演&quot;，而非&quot;老师&quot;：引导比灌输有效，激发比说教省力。</li></ul><p><strong>说人话</strong>：好的交付不是拼体力，是拼格局。你让学员在过程中&quot;玩起来&quot;，他才会自己留下来。</p><blockquote>源自 · 麦爸小筑·共话成长 2025-11-18</blockquote>",
       "source": "07-school-to-park.md"
     },
     {
       "id": "name-clarity",
+      "collection": "self",
+      "origin": "self",
       "title": "产品名要说清价值：名字模糊，用户心里就模糊",
       "theme": "产品与交付",
       "level": "极高",
@@ -220,11 +285,18 @@
       ],
       "date": "2026-07",
       "order": 8,
+      "book": "",
+      "bookShort": "",
+      "author": "",
+      "chapter": "",
+      "kicker": "",
       "body": "<p>我原来的产品叫&quot;微信朋友圈人生资产礼包&quot;，名字听起来挺玄，但别人听完不知道是啥。</p><p>后来改成——<strong>IP 朋友圈内容资产</strong>，副标题&quot;整合历年动态沉淀和复用的 AI 创作语料&quot;。</p><p>从用户视角出发，产品是什么、给谁用、解决什么问题，一句话全说清楚了。</p><p><strong>说人话</strong>：名字模糊，用户心里就模糊；名字清晰，价值感直接上来。改个名字往往比多加一节课更管用。</p><blockquote>源自 · 麦爸战略陪跑周三12:00（二阶） 2026-07-29</blockquote>",
       "source": "08-name-clarity.md"
     },
     {
       "id": "sell-is-not-push",
+      "collection": "self",
+      "origin": "self",
       "title": "销售不是推销，而是让价值被看见",
       "theme": "销售与成交",
       "level": "极高",
@@ -248,11 +320,18 @@
       ],
       "date": "2026-08",
       "order": 9,
+      "book": "",
+      "bookShort": "",
+      "author": "",
+      "chapter": "",
+      "kicker": "",
       "body": "<p>从 99 元都不敢卖，到 999 元成交 14 单，我最大的转变是这一句话。</p><p>以前我以为销售就是：主动找人推销、到处介绍产品、追着别人成交，甚至让人感到被骚扰。</p><p>后来才知道还有另一种销售——<strong>被动销售</strong>： 不讨好说服，不强推硬卖，不套路逼单， 而是通过持续输出价值，让真正需要你的人主动靠近你。 是吸引，是种草，是利他，也是信任。</p><p>表达不只是为了卖货，也是梳理自己、呈现价值、建立信任的过程。 谈高客单要像医生一样：先了解对方真正的问题，判断自己能不能帮到他，再给出方案。</p><p><strong>说人话</strong>：成交不是对别人的索取，是帮一个正需要的人，终于找到了你。</p><blockquote>源自 · 麦爸战略陪跑周三12:00（二阶） 2026-08-07</blockquote>",
       "source": "09-sell-is-not-push.md"
     },
     {
       "id": "sampling-system",
+      "collection": "self",
+      "origin": "self",
       "title": "验货体系：付费前，一定先让用户「尝一口」",
       "theme": "销售与成交",
       "level": "极高",
@@ -275,11 +354,18 @@
       ],
       "date": "2025-11",
       "order": 10,
+      "book": "",
+      "bookShort": "",
+      "author": "",
+      "chapter": "",
+      "kicker": "",
       "body": "<p>验货体系是剑客的剑——没有它，别人无法识别你的价值，你在赛道上寸步难行。</p><ul><li><strong>验货的本质是&quot;让用户先体验&quot;</strong>，就像山姆的试吃：先尝到价值，才愿意为后续服务付费。</li><li>眼见为实：价值观同频 + 落地方法 + 案例证言，三者结合，用户才会主动买单。</li><li>能不能写出细分领域的 <strong>100 条核心方法论</strong>，是检验专业度的试金石——写不出来，说明积累还不够深。</li></ul><p><strong>说人话</strong>：别让用户&quot;相信你很厉害&quot;，让他自己试一口，然后自己得出这个结论。</p><blockquote>源自 · 麦爸小筑·共话成长 2025-11-18</blockquote>",
       "source": "10-sampling-system.md"
     },
     {
       "id": "open-marketing",
+      "collection": "self",
+      "origin": "self",
       "title": "明牌地营销：欲先取之，必先予之",
       "theme": "销售与成交",
       "level": "高",
@@ -303,11 +389,18 @@
       ],
       "date": "2025-11",
       "order": 11,
+      "book": "",
+      "bookShort": "",
+      "author": "",
+      "chapter": "",
+      "kicker": "",
       "body": "<p>真诚反而没有抗拒。</p><p>一小时干货，换一次广告时间——温柔、体面、不逼单。<strong>欲先取之，必先予之。</strong></p><p>高价值感给人的第一个反应，是&quot;特别&quot;，而不是&quot;干货&quot;。 独特和稀缺性，是比知识更重要的卖点；呈现，比教更有说服力。</p><p><strong>说人话</strong>：先把价值给够，再开口要。用户不会讨厌一个一直在给的人，只会讨厌一个只会要的人。</p><blockquote>源自 · 麦爸小筑·共话成长 2025-11-18</blockquote>",
       "source": "11-open-marketing.md"
     },
     {
       "id": "private-domain-five",
+      "collection": "self",
+      "origin": "self",
       "title": "私域五个模块，各司其职，缺一不可",
       "theme": "私域与朋友圈",
       "level": "高",
@@ -331,11 +424,18 @@
       ],
       "date": "2025-11",
       "order": 12,
+      "book": "",
+      "bookShort": "",
+      "author": "",
+      "chapter": "",
+      "kicker": "",
       "body": "<p>私域经营的底层是<strong>内容结构</strong>，五个模块各干各的活：</p><ul><li><strong>朋友圈</strong>建信任；</li><li><strong>社群</strong>提效率（也是&quot;锁定注意力&quot;的关键——没有社群，用户很容易被别的信息带走）；</li><li><strong>公众号</strong>做答疑库（用户提问时能快速调出文章，既省精力又显专业）；</li><li><strong>直播间</strong>强感知（核心是&quot;真人感&quot;，文字看不到状态，直播能让用户感知你的能量）；</li><li><strong>私聊</strong>促成交。</li></ul><p>另外，PDF 是私域引流的&quot;万能工具&quot;：书单、测评报告、交付合集……能精准匹配不同需求，筛出高意向客户。 线上发 PDF 方便触达，线下送纸质版提升重视度，两者搭配效果最好。</p><p><strong>说人话</strong>：别把五个阵地都用来发同一条广告。它们分工不同，凑齐了才是一台机器。</p><blockquote>源自 · 麦爸小筑·共话成长 2025-11-18</blockquote>",
       "source": "12-private-domain-five.md"
     },
     {
       "id": "ip-is-ideal-person",
+      "collection": "self",
+      "origin": "self",
       "title": "IP 是某一类人心中的「理想人」",
       "theme": "个人IP",
       "level": "高",
@@ -359,11 +459,18 @@
       ],
       "date": "2026-02",
       "order": 13,
+      "book": "",
+      "bookShort": "",
+      "author": "",
+      "chapter": "",
+      "kicker": "",
       "body": "<p>每一个个人 IP，都是某一类人心中的<strong>理想人</strong>——他活成了这类人想活成的样子，至少是部分活成了。</p><p>李子柒把田园生活过成了艺术品；罗永浩身上有理想主义者的可靠与诚信；董宇辉让人相信知识的力量。</p><p>每个人都有很多想做却没做的事：不敢做、不能做、暂时没条件做、要对家庭负责不能马上做。 这时候如果有一个人替他们做了，他们就能从这个人身上找到<strong>情感投射和心理安慰</strong>—— 于是他成了他们心里的&quot;行动理想人&quot;。</p><p>所以铁粉想靠近的、想买的，本质上是 IP 身上的<strong>魅力和人生状态</strong>。 至于你卖的是课程、书还是柴米油盐，反而是次要的。</p><p><strong>说人话</strong>：先活成别人想成为的样子，再谈卖什么。人设不塌，红利就在。</p><blockquote>源自 · 麦爸小筑·共话成长 2026-02-06</blockquote>",
       "source": "13-ip-is-ideal-person.md"
     },
     {
       "id": "brand-three",
+      "collection": "self",
+      "origin": "self",
       "title": "个人品牌三要素：热爱为先，快速产品化，用户",
       "theme": "个人IP",
       "level": "极高",
@@ -387,11 +494,18 @@
       ],
       "date": "2025-11",
       "order": 14,
+      "book": "",
+      "bookShort": "",
+      "author": "",
+      "chapter": "",
+      "kicker": "",
       "body": "<ul><li><strong>热爱为先</strong>：热爱是&quot;即使免费，你也特别享受去干&quot;的事情。你的一切，皆优势。</li><li><strong>快速产品化</strong>：产品化就是<strong>卖出去</strong>。哪怕只是一个最小迭代单元，卖 9 块 9 也行。</li></ul><p>  持续的正反馈才能支撑持续的迭代——<strong>市场和用户会教你迭代</strong>，关起门来打磨永远打磨不完。</p><ul><li><strong>用户</strong>：描绘未来的可能性，用感性的语言激发用户对美好自我的向往。</li></ul><p>  因为用户买的不是产品本身，而是<strong>未来美好的可能性</strong>。</p><p>还有一条：<strong>贵是相对的</strong>。一万的私教课觉得贵，就拿它和&quot;一次线上咨询 3000/小时&quot;对标—— 用高价值的参考系破除&quot;贵&quot;的感受。</p><p><strong>说人话</strong>：先找到一个你免费也愿意干的事，再尽快卖一次 9 块 9。卖出去那一刻，你才算真的开始。</p><blockquote>源自 · 麦爸小筑·共话成长 2025-11-18</blockquote>",
       "source": "14-brand-three.md"
     },
     {
       "id": "curse-of-knowledge",
+      "collection": "self",
+      "origin": "self",
       "title": "知识的诅咒：你的轻而易举，正是别人的竭尽全力",
       "theme": "成长与认知",
       "level": "极高",
@@ -415,11 +529,18 @@
       ],
       "date": "2026-08",
       "order": 15,
+      "book": "",
+      "bookShort": "",
+      "author": "",
+      "chapter": "",
+      "kicker": "",
       "body": "<p>技术人很容易陷入一种&quot;知识的诅咒&quot;：</p><p>自己会的东西做多了，就会觉得——&quot;这不是很简单吗？&quot;&quot;大家应该都懂吧？&quot;&quot;这有什么好讲的？&quot;</p><p>我也常对朋友说：&quot;这没什么好介绍的，懂的都懂……&quot;</p><p>可后来才明白：<strong>我眼里的轻而易举，可能正是别人的竭尽全力。</strong> 我用了 18 年积累的经验已经变成本能；我以为大家都知道，只是因为我不断翻过一座又一座山， 忘了很多人还在山脚找入口。</p><p>很长一段时间我都陷在&quot;孤芳自赏&quot;里：觉得自己有技术、有产品，真正懂的人自然会发现。 直到一个很熟的朋友问我：&quot;啊？原来你有产品？我怎么从来都不知道？&quot;——那一刻我被击中了。</p><p><strong>说人话</strong>：你藏着不说，不是谦逊，是让别人失去了一个本可以被你帮到的机会。</p><blockquote>源自 · 麦爸战略陪跑周三12:00（二阶） 2026-08-06</blockquote>",
       "source": "15-curse-of-knowledge.md"
     },
     {
       "id": "borrow-strength",
+      "collection": "self",
+      "origin": "self",
       "title": "学会及时借力：把时间花在你擅长的事上",
       "theme": "成长与认知",
       "level": "极高",
@@ -442,11 +563,18 @@
       ],
       "date": "2026-05",
       "order": 16,
+      "book": "",
+      "bookShort": "",
+      "author": "",
+      "chapter": "",
+      "kicker": "",
       "body": "<p>早上给孩子打印成长册，解决了没墨的问题，又卡在打印机设置上。 折腾了一个小时愣是没搞定，眼看孩子上学要迟到了——麻溜跑去打印店，<strong>几分钟解决，几块钱搞定</strong>。</p><p>我花一小时没解决的事，别人几分钟、几块钱就解决了。</p><p>无论生活、工作还是创业，都要好好算算<strong>时间成本</strong>： 把宝贵的时间和精力用在自己擅长的事情上，去创造价值，在自己擅长的领域发光。</p><p><strong>说人话</strong>：学会借力才更省力。你省下的那一小时，本来可以创造远超过几块钱的价值。</p><blockquote>源自 · 麦爸｜365知识变现实战圈 2026-05-13</blockquote>",
       "source": "16-borrow-strength.md"
     },
     {
       "id": "review-procrastination",
+      "collection": "self",
+      "origin": "self",
       "title": "你不是不会，你只是对「不擅长的事」天然拖延",
       "theme": "成长与认知",
       "level": "高",
@@ -470,11 +598,18 @@
       ],
       "date": "2026-07",
       "order": 17,
+      "book": "",
+      "bookShort": "",
+      "author": "",
+      "chapter": "",
+      "kicker": "",
       "body": "<p>我发现自己有个规律：<strong>对擅长的事行动力特别强，对不擅长的事就天然拖延。</strong></p><p>做产品、跑流程、搞技术，我上手很快； 但&quot;回头看、捋清楚、说出来&quot;这类事，总觉得没那么顺，能拖就拖。</p><p>咨询完收获很大，复盘笔记却迟迟没写——这次也一样。</p><p><strong>说人话</strong>：别把&quot;我做不到&quot;当成能力问题，先看看它是不是你本能想躲开的那一类事。 识别出来，把它排进流程，靠机制推着自己走，而不是靠状态。</p><blockquote>源自 · 麦爸战略陪跑周三12:00（二阶） 2026-07-29</blockquote>",
       "source": "17-review-procrastination.md"
     },
     {
       "id": "boredom-is-insight",
+      "collection": "self",
+      "origin": "self",
       "title": "允许无聊、允许发呆，那是内省的隐藏入口",
       "theme": "修心与生命",
       "level": "极高",
@@ -499,11 +634,18 @@
       ],
       "date": "2026-03",
       "order": 18,
+      "book": "",
+      "bookShort": "",
+      "author": "",
+      "chapter": "",
+      "kicker": "",
       "body": "<p>现代人找到了一个近乎完美的&quot;无聊消灭武器&quot;：手机。哪怕等红绿灯的 15 秒，都要掏出来。</p><p>可每次一感到无聊就刷手机，你就越来越难找到生活的意义。</p><p>脑科学里有个词叫<strong>默认模式网络</strong>：人在发呆时它就悄悄启动，负责内省、回忆过去、畅想未来。 手机让这个通道越来越难启动，等于切断了你通往自己内心的路。 意义感的缺失，正是抑郁、焦虑和空虚感的重要来源之一。</p><p>允许放空，允许发呆，允许无聊——这是通往回忆、内省、觉察和创造力的隐藏入口。 <strong>静能生慧。</strong></p><p><strong>说人话</strong>：我最好的反思时间都在上下班路上，因为无聊、又不能看手机，只能放空和思考。 灵感来了就录下来——无聊不是浪费，是给大脑留白。</p><blockquote>源自 · 麦爸小筑·共话成长 2026-03-11</blockquote>",
       "source": "18-boredom-is-insight.md"
     },
     {
       "id": "parenting-is-self-polishing",
+      "collection": "self",
+      "origin": "self",
       "title": "养娃不是雕琢玉器，是磨平自己的棱角",
       "theme": "亲子与养育",
       "level": "极高",
@@ -527,11 +669,18 @@
       ],
       "date": "2026-07",
       "order": 19,
+      "book": "",
+      "bookShort": "",
+      "author": "",
+      "chapter": "",
+      "kicker": "",
       "body": "<p>我在纸上画过满分的轮廓，一笔一划都按着完美的轨迹；他偏把线条画得歪歪扭扭。 我攥着橡皮，手心里全是强忍的怒气。</p><p>后来才懂：<strong>原来最该改脾气的人，一直是自己。</strong></p><ul><li>养娃不是雕琢一块玉器，是解开自己内心纠结的一场破局；</li><li>回头看这一路辗转反侧，原来我一直追的&quot;完美&quot;是枷锁；</li><li>孩子不用活成你想要的样子；</li><li>慢慢松开手，才懂什么是舍得。</li></ul><p><strong>说人话</strong>：你盯着孩子改，改的是表象；回头改自己，改的是根。不完美的孩子，是父母的修行。</p><blockquote>源自 · 麦爸小筑·共话成长 2026-07-23</blockquote>",
       "source": "19-parenting-is-self-polishing.md"
     },
     {
       "id": "step-back-half",
+      "collection": "self",
+      "origin": "self",
       "title": "父母退后半步，把情绪体验还给孩子",
       "theme": "亲子与养育",
       "level": "高",
@@ -555,11 +704,18 @@
       ],
       "date": "2025-11",
       "order": 20,
+      "book": "",
+      "bookShort": "",
+      "author": "",
+      "chapter": "",
+      "kicker": "",
       "body": "<p>孩子出门自己走远了没说，大人一时找不到。等孩子安然无恙回来，第一反应常常是又急又凶。</p><p>更好的做法是<strong>退后半步</strong>：</p><ul><li><strong>不插手</strong>——别急着替他平复，也别急着替他解决；</li><li><strong>把情绪体验全还给孩子</strong>——他有能力跟自己的情绪共处；</li><li><strong>信任</strong>——父母对孩子的信任像一面镜子，会照进孩子心里，让他也愿意信任自己：</li></ul><p>  &quot;原来我才是我自己的情绪小主人，我的事我是可以有掌控权的。&quot;</p><p>我们总想给孩子最顺遂的人生，但真正能陪他一生的，是<strong>面对不如意时的那份心理韧性</strong>。 这份韧性，需要我们不代替生活去教育孩子，也不用自己的经验去代替孩子的体验。</p><p><strong>说人话</strong>：你的经验救不了他的一生，他的体验可以。忍住别插手，就是最好的教养。</p><blockquote>源自 · 麦爸小筑·共话成长 2025-11-09</blockquote>",
       "source": "20-step-back-half.md"
     },
     {
       "id": "dont-deny-feelings",
+      "collection": "self",
+      "origin": "self",
       "title": "别否定孩子的感受：从他嘴里说出来的，那就是真的",
       "theme": "亲子与养育",
       "level": "极高",
@@ -583,11 +739,18 @@
       ],
       "date": "2026-07",
       "order": 21,
+      "book": "",
+      "bookShort": "",
+      "author": "",
+      "chapter": "",
+      "kicker": "",
       "body": "<p>福州三十多度的夏天，儿子非要穿带绒的秋长袖上学。外婆怎么说都不听。</p><p>我没有硬掰，而是尊重他的选择，同时把短袖塞进书包让老师帮忙换。孩子全程都很开心。</p><p><strong>否定孩子的感受，否定多了就不只是否定了感受，那是打击他对自我的认可和信心。</strong> 从孩子嘴里说出来的感受，那就是真的。</p><p>还有一段老师的话解开过我的困扰： &quot;你希望孩子的生命里只有&#39;快乐&#39;这一种颜色吗？ 你无法创造无菌的环境。你有你的课题，她有她的课题。 我们能做的，是默默在背后陪她完成一次次情绪的流淌——让它来，让它去。&quot;</p><p><strong>说人话</strong>：我们改变不了别人，但可以帮孩子&quot;翻译&quot;别人的情绪，让他学会自己选择怎么表达。</p><blockquote>源自 · 麦爸小筑·共话成长 2026-07-01 / 2026-01-06</blockquote>",
       "source": "21-dont-deny-feelings.md"
     },
     {
       "id": "bedtime-drawing-game",
+      "collection": "self",
+      "origin": "self",
       "title": "睡前「我画你猜」：让孩子在连接与专注里睡着",
       "theme": "亲子与养育",
       "level": "高",
@@ -612,11 +775,18 @@
       ],
       "date": "2025-11",
       "order": 22,
+      "book": "",
+      "bookShort": "",
+      "author": "",
+      "chapter": "",
+      "kicker": "",
       "body": "<p>一个超简单的小游戏：在孩子的手心或背上，慢慢画一个形状、写一个字母或数字。 他闭着眼睛安安静静地躺着，专注地去感觉、去猜。猜对了，就在额头轻轻送一个吻。</p><p>它带来的改变特别明显：</p><ol><li><strong>降兴奋度</strong>——我刻意放慢动作，节奏慢下来，孩子的心也跟着慢下来，像进入&quot;柔软模式&quot;；</li><li><strong>不再上蹿下跳</strong>——注意力都在&quot;爸爸到底画了啥&quot;上了；</li><li><strong>杂念自然退散</strong>——专注感受背上的形状时，那些跳跃的想法就安静了，睡意慢慢来了。</li></ol><p><strong>说人话</strong>：睡前不需要热闹，也不需要道具。一个小小的画背游戏， 就能让孩子在连接、专注和安全感里慢慢睡着。</p><blockquote>源自 · 麦爸小筑·共话成长 2025-11-28</blockquote>",
       "source": "22-bedtime-drawing-game.md"
     },
     {
       "id": "like-over-love",
+      "collection": "self",
+      "origin": "self",
       "title": "家人之间，「喜欢」比「爱」更难得",
       "theme": "亲子与养育",
       "level": "高",
@@ -640,11 +810,18 @@
       ],
       "date": "2026-06",
       "order": 23,
+      "book": "",
+      "bookShort": "",
+      "author": "",
+      "chapter": "",
+      "kicker": "",
       "body": "<p>从小我们被告知&quot;父母很爱自己&quot;，也从小对孩子说&quot;我很爱你们&quot;。 但这里的爱，更多是一种责任、血缘和无条件的接纳—— 它被责骂、被控制都可以解释成&quot;因为我爱你&quot;。 本质上，孩子感受到的还是控制。</p><p><strong>而喜欢是平等的。</strong> 我喜欢你，是因为你让我觉得喜欢了。哪天你不让我喜欢了，我就不喜欢你—— 你有全然的自主选择权，我却强迫不了你一点点。</p><p>带孩子去公司附近的泳池游泳，于是孩子记住了：爸爸在游泳池上班。 每次听到这里我都开心大笑。这一刻，我对孩子不是爱，是<strong>喜欢</strong>。</p><p><strong>说人话</strong>：爱常常带着&quot;天经地义的捆绑&quot;，而喜欢是对方真的让你愉悦。 能让孩子感受到&quot;爸爸喜欢我&quot;，比&quot;爸爸爱我&quot;更难，也更珍贵。</p><blockquote>源自 · 麦爸小筑·共话成长 2026-06-15</blockquote>",
       "source": "23-like-over-love.md"
     },
     {
       "id": "emotion-is-signal",
+      "collection": "self",
+      "origin": "self",
       "title": "情绪没有对错，它是身体发给大脑的信号",
       "theme": "情绪与关系",
       "level": "极高",
@@ -668,11 +845,18 @@
       ],
       "date": "2026-07",
       "order": 24,
+      "book": "",
+      "bookShort": "",
+      "author": "",
+      "chapter": "",
+      "kicker": "",
       "body": "<p>感受是身体自己的事；情绪是感受的外在表现——像信号灯，让别人看见我们的状态。</p><ul><li><strong>情绪没有对错，只有舒服和不舒服。</strong></li><li>生气背后是有需求的。不通过生气表达出来，可能憋出更严重的后果；<strong>连生气都不会了，那就是彻底的无助</strong>。</li><li>情绪也可以是人际交往的红绿灯：对方红灯，我们闭嘴倾听；对方绿灯我们红灯，就主动表达；</li></ul><p>  双方红灯，暂停或换个无伤害的方式探讨；双方绿灯，就储蓄情感账户。</p><ul><li>真正的情绪掌控，不是&quot;要做情绪主人&quot;这种正确的废话，而是<strong>提升认知、扩大思考的维度</strong>。</li></ul><p>  比如只认&quot;上班赚钱&quot;这一种活法，失业就很焦虑；知道世上有很多种活法，失业就只是换一种生活方式的成长机会。</p><p><strong>说人话</strong>：没有人可以让你生气，除非你允许。选择用什么情绪面对处境，是自己决定的。</p><blockquote>源自 · 麦爸小筑·共话成长 2026-07-01</blockquote>",
       "source": "24-emotion-is-signal.md"
     },
     {
       "id": "listening-shut-up",
+      "collection": "self",
+      "origin": "self",
       "title": "真正的倾听，第一件事是闭上嘴",
       "theme": "情绪与关系",
       "level": "极高",
@@ -696,11 +880,18 @@
       ],
       "date": "2026-06",
       "order": 25,
+      "book": "",
+      "bookShort": "",
+      "author": "",
+      "chapter": "",
+      "kicker": "",
       "body": "<p>以前我总觉得自己不擅长表达。后来才发现：</p><p>那些特别善于表达的人，并不需要另一个同样健谈的人， <strong>他们更需要的是一个愿意认真倾听的人。</strong></p><p>很多时候我几乎没说什么，对方却会觉得&quot;今天聊得真舒服&quot;——因为他感觉自己被看见了。</p><p>这一点在孩子身上更明显： 很多父母和孩子聊天，总带着教育、试探或者解决问题的目的； 而孩子和朋友聊天，常常只是天南海北地瞎聊——<strong>正因为没有目的，所以更放松。</strong></p><p><strong>说人话</strong>：真正好的关系不是靠大道理建立的， 是在一次次没有目的、没有评判的聊天里慢慢长出来的。</p><blockquote>源自 · 麦爸小筑·共话成长 2026-06-29</blockquote>",
       "source": "25-listening-shut-up.md"
     },
     {
       "id": "open-cards-is-stop-loss",
+      "collection": "self",
+      "origin": "self",
       "title": "打明牌不是勇敢，是止损",
       "theme": "情绪与关系",
       "level": "极高",
@@ -724,11 +915,18 @@
       ],
       "date": "2026-04",
       "order": 26,
+      "book": "",
+      "bookShort": "",
+      "author": "",
+      "chapter": "",
+      "kicker": "",
       "body": "<p>很多人把&quot;打明牌&quot;理解为&quot;我敢说&quot;。但说到底，<strong>明牌的本质是筛选效率</strong>。</p><p>你含含糊糊，对方猜来猜去，双方都在模糊地带消耗时间、消耗情绪、消耗信任。 一次邀约纠结三天要不要发，一条消息反复删改七遍—— 这哪是谨慎？这是把沟通成本无限拉高。</p><p>把&quot;你猜我什么意思&quot;变成&quot;我就是这个意思&quot;， 对方三秒就能判断：跟，还是不跟。 你省了纠结，对方省了猜测，<strong>双向止损</strong>。</p><p><strong>说人话</strong>：内耗的人不是想太多，是敢做的太少。说清楚，反而最省事。</p><blockquote>源自 · 麦爸👨智慧启发核心群 2026-04-26</blockquote>",
       "source": "26-open-cards-is-stop-loss.md"
     },
     {
       "id": "boundary-makes-kindness-real",
+      "collection": "self",
+      "origin": "self",
       "title": "守住边界之后的「好」，才是真的好",
       "theme": "情绪与关系",
       "level": "极高",
@@ -752,11 +950,18 @@
       ],
       "date": "2026-04",
       "order": 27,
+      "book": "",
+      "bookShort": "",
+      "author": "",
+      "chapter": "",
+      "kicker": "",
       "body": "<p>&quot;宁可委屈别人也要成全自己&quot;——这句话常被误读成教人自私。</p><p>但你细想：一个长期委屈自己的人，她给出去的&quot;好&quot;，质量高吗？</p><p>嘴上说&quot;没事没事&quot;，心里已经记了一笔账；表面答应赴约，全程心不在焉； 勉强帮忙，做完了还要叹口气让人知道—— <strong>这不是善良，这是带着怨气的付出。</strong> 接收的人不舒服，付出的人更委屈，双输。</p><p>所以真意不是&quot;我要占上风&quot;，而是： <strong>一个不自耗的人，才能给出真正松弛的善意。</strong> 勉强撑出来的&quot;好&quot;，迟早要连本带利讨回去。</p><p><strong>说人话</strong>：先把自己照顾好，你给出去的才叫礼物；带着委屈给的，那叫账单。</p><blockquote>源自 · 麦爸👨智慧启发核心群 2026-04-26</blockquote>",
       "source": "27-boundary-makes-kindness-real.md"
     },
     {
       "id": "judge-deeds-not-minds",
+      "collection": "self",
+      "origin": "self",
       "title": "对朋友论迹不论心：看行为，不猜动机",
       "theme": "情绪与关系",
       "level": "极高",
@@ -780,11 +985,18 @@
       ],
       "date": "2026-05",
       "order": 28,
+      "book": "",
+      "bookShort": "",
+      "author": "",
+      "chapter": "",
+      "kicker": "",
       "body": "<p>很多伙伴，包括以前的我，都不敢接受别人的馈赠。 总觉得收了就欠了别人，或者担心要付出更大代价来偿还。</p><p>老师的一句话点醒了我：</p><blockquote>活成别人生命中的礼物，也勇敢地去接受别人的礼物， 因为这是关系越来越紧密的方式！</blockquote><p>不去猜忌他人的好是真心还是假意，<strong>单纯地看行迹</strong>—— 对我好，就是爱我，就是渴望靠近我、认可我的为人和品质。</p><p>从此内心极为清明，关系极为简单。</p><p><strong>说人话</strong>：猜动机，关系是雷区；看行为，关系是礼物。别人对你好，先接住，再回报。</p><blockquote>源自 · 麦爸的乌托邦 2026-05-23</blockquote>",
       "source": "28-judge-deeds-not-minds.md"
     },
     {
       "id": "write-it-down",
+      "collection": "self",
+      "origin": "self",
       "title": "写下来，就是让自己先看见自己的情绪",
       "theme": "修心与生命",
       "level": "高",
@@ -807,11 +1019,18 @@
       ],
       "date": "2026-06",
       "order": 29,
+      "book": "",
+      "bookShort": "",
+      "author": "",
+      "chapter": "",
+      "kicker": "",
       "body": "<p>情绪不是消灭掉的，而是<strong>疏放出去的</strong>。 就像垃圾桶，每天都往里丢却从来不倒，迟早会溢出来。</p><p>疏放的方法里，印象最深的是<strong>表达法</strong>——第一种就是写下来：</p><p>把每天有情绪的事情写下来，不需要写得多好，只需要真实地表达。 （书里甚至会让来访者连续写 21 天。）</p><p>我忽然理解了为什么&quot;书写疗愈&quot;能帮到这么多人： <strong>因为情绪需要被看见。写下来，就是让自己先看见自己的情绪。</strong></p><p>如果还有一个人愿意看见，那份力量就更大了。 很多时候，作者只是回复一句&quot;我看到了&quot;，甚至只是点一个赞——这就够了。</p><p><strong>说人话</strong>：不用写得好，不用给别人看。写下来这个动作本身，就是在给情绪找一个出口。</p><blockquote>源自 · 麦爸小筑·共话成长 2026-06-29</blockquote>",
       "source": "29-write-it-down.md"
     },
     {
       "id": "no-dark-alley",
+      "collection": "self",
+      "origin": "self",
       "title": "在外与人冲突，不走暗巷、不爆粗口",
       "theme": "修心与生命",
       "level": "极高",
@@ -834,8 +1053,1967 @@
       ],
       "date": "2025-12",
       "order": 30,
+      "book": "",
+      "bookShort": "",
+      "author": "",
+      "chapter": "",
+      "kicker": "",
       "body": "<p>多年前有则新闻：为了一块钱的热干面差价，两个人发生争执，最后酿成惨案。 其实都是底层的苦命人，只是把憋了太久的情绪、委屈和压力，在那一刻集中爆炸。</p><p>这些年我越来越明白： <strong>你永远不知道一个普通成年人背后背负了多少重担。</strong> 压垮成年人的最后一根稻草，也许只是一份被人误取走的外卖盒饭。 这个时代，人的崩溃阈值越来越低，每个人都在极限边缘努力撑着。</p><p><strong>说人话</strong>：在外与人起冲突，不走暗巷，不爆粗口。 你永远不知道对方是不是正濒临崩溃——赢了口舌，可能输掉安全。</p><blockquote>源自 · 麦爸小筑·共话成长 2025-12-19</blockquote>",
       "source": "30-no-dark-alley.md"
+    },
+    {
+      "id": "rs-01",
+      "collection": "book",
+      "origin": "book",
+      "title": "越向外求知识，越解决不了内心的不安",
+      "theme": "佛学入门",
+      "level": "极高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "顺手"
+      ],
+      "spend_will": [
+        "不用毅力"
+      ],
+      "tags": [
+        "心灵危机",
+        "内省知识",
+        "莫向外求",
+        "觉察"
+      ],
+      "date": "2026-09",
+      "order": 1,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "缘起 普遍的心灵危机下，何处寻找安心之道？",
+      "kicker": "缘起",
+      "body": "<h4>这一讲在讲什么</h4><p>成庆在上海大学教了十几年佛学通识课，发现学生的问题从&quot;知识层面&quot;慢慢变成了&quot;如何在时代危机里安顿内心&quot;。 他给了一个判断：现代人有种过度<strong>外求</strong>知识的倾向——以为对自然、社会了解得越多就越幸福， 结果<strong>外部知识解决不了内在的生命问题</strong>，反而加剧精神疲倦。庄子那句&quot;以有涯随无涯，殆已&quot;说的就是这个。</p><p>佛学的位置因此有点特别：它介于哲学与宗教之间，看上去不食人间烟火，实际恰恰最重现实—— &quot;离世觅菩提，恰如求兔角&quot;，觉悟不可能离开生活。全书就用苦、空、无常、缘起、涅槃这些关键词， 把流传两千多年的观念放回现代人的处境里重新问一遍。</p><h4>关键概念</h4><ul><li><strong>四无现象</strong>：彭凯平的研究——学习无动力、对真实世界无兴趣、社交无能力、对生命价值无感受</li><li><strong>莫向外求</strong>：不是隔绝外界，是不被外境迷惑牵引，把焦点从&quot;欲求外物&quot;转到&quot;审视自己的认知模式&quot;</li><li><strong>安定（focus）与觉察（awareness）</strong>：佛学可实践的两条腿——专注当下的能力，与反观自己身心状态的能力</li><li><strong>佛学重现实而非避世</strong>：禅宗&quot;一日不作，一日不食&quot;，观音闻声救苦，都在面对实实在在的苦难</li><li><strong>正念冥想的误区</strong>：流行不等于正确，这套方法有它自己的内在逻辑，不能只取外壳</li></ul><h4>带走一句</h4><p>把注意力从&quot;我还要知道什么&quot;换成&quot;我现在感受到什么&quot;——这是佛学给现代人开的第一味药。</p><blockquote>原文：「我们存在某种迷思，认为对自然、社会等外部世界的知识了解越多，就越有可能获得幸福。同时，人的『内省知识』却被有意或无意地忽略，甚至被贴上『反科学』『玄学』的标签。」</blockquote>",
+      "source": "01-renshengjieyou/rs-01.md"
+    },
+    {
+      "id": "rs-02",
+      "collection": "book",
+      "origin": "book",
+      "title": "痛苦逼人追问生命的意义",
+      "theme": "佛学入门",
+      "level": "一般",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "轴心时代",
+        "体验式认知",
+        "吠陀",
+        "梵我合一"
+      ],
+      "date": "2026-09",
+      "order": 2,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "第1讲 探究生命意义的冲动（古印度的精神世界）",
+      "kicker": "第1讲",
+      "body": "<h4>这一讲在讲什么</h4><p>成庆先问：人为什么会有探究生命意义的冲动？雅思贝尔斯的回答是，人只有在&quot;死亡、偶然事件、罪责和世界的不确定性&quot;这类极端情境下，才会真正追问生命的本质。公元前500年前后的轴心时代，古希腊哲人、先秦诸子、印度沙门与以色列先知几乎同时开始这件事。 他把认知分成两条路：<strong>体验式</strong>与<strong>反思式</strong>。前者直接简洁，让人当下得到慰藉；后者靠概念论证，能厘清经验，却容易把痛苦抽离成抽象知识——分析完了，苦还在。 视线转到佛陀诞生前的印度：《吠陀》以祭祀沟通自然神，种姓制度随之固化；《奥义书》转向哲思，借瑜伽禅定体验&quot;梵我合一&quot;，并提出轮回与解脱。佛教正是在这片土壤上生长起来，却又反对&quot;梵我合一&quot;。</p><h4>关键概念</h4><ul><li><strong>轴心时代</strong>：约公元前500年，多个文明同时意识到自己与宇宙秩序之间的界限</li><li><strong>体验式认知</strong>：直接简洁、自然流露，能在当下给人慰藉与解放的力量</li><li><strong>反思式认知</strong>：调用概念去论证生命价值，却容易让人远离现实生活</li><li><strong>《吠陀》与《奥义书》</strong>：前者重祭祀仪式，后者转向哲思智慧，同为佛学来源</li><li><strong>梵我合一</strong>：认为&quot;小我&quot;与宇宙本原的&quot;梵&quot;一致，修行即令小我回归大我</li></ul><h4>带走一句</h4><p>追问生命意义不是知识问题，而是被痛苦逼出来的——所以答案也不在知识里。</p><blockquote>原文：「关于生命有两种认知的途径：一种是体验式的，另一种是反思式的。」</blockquote>",
+      "source": "01-renshengjieyou/rs-02.md"
+    },
+    {
+      "id": "rs-03",
+      "collection": "book",
+      "origin": "book",
+      "title": "出家不是逃避，是看见了绝对的不自由",
+      "theme": "佛学入门",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "顺手"
+      ],
+      "spend_will": [
+        "不用毅力"
+      ],
+      "tags": [
+        "三身佛",
+        "四门游观",
+        "出离心",
+        "老病死"
+      ],
+      "date": "2026-09",
+      "order": 3,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "第2讲 悉达多，你为何出家？（悉达多的苦与自由）",
+      "kicker": "第2讲",
+      "body": "<h4>这一讲在讲什么</h4><p>佛陀到底长什么样，其实无从确定。他在世时并不流行造像，早期佛教徒用佛塔、足印、菩提树、法轮来象征他，直到大乘佛教兴起，佛像才流行。成庆因此强调：<strong>&quot;相&quot;并不重要，重要的是理解佛陀所说的&quot;法&quot;</strong>。佛有三身——凡夫见到的是朴素的&quot;化身&quot;，菩萨见到的是庄严的&quot;报身&quot;，而&quot;法身&quot;无形无相。 再回到历史：悉达多是刹帝利王子，生活优渥，婚姻事业都顺，并无世俗理由出家。游四门时见到老人、病人、亡者，他才意识到无论世间多完美，人都躲不过老、病、死这道天花板。 那是<strong>生命的绝对不自由</strong>，不是社会进步所能解决的。他的出家因此不是逃避不幸，而是对&quot;苦&quot;高度敏感之后生起的出离心。</p><blockquote>同一主题另见《安心之道》第二章「悉达多的苦与自由」。</blockquote><h4>关键概念</h4><ul><li><strong>三身佛</strong>：化身随凡夫认知显现，报身是菩萨所见的庄严相，法身无形无相</li><li><strong>四门游观</strong>：太子出城先后遇见老人、病人、亡者与沙门，由此萌生修道之念</li><li><strong>觉醒意识</strong>：与老病死初次遭遇时反推自身，意识到自己同样注定如此</li><li><strong>生命的绝对不自由</strong>：再完美的世间也绕不过老病死，非个体努力所能免除</li><li><strong>出离心</strong>：因渴望超越苦，而对看似安稳的世俗生活生起强烈的不满足感</li></ul><h4>带走一句</h4><p>让悉达多出家的不是苦难本身，而是他发现再好的生活也留不住。</p><blockquote>原文：「无论悉达多遇到的是哪个场景，他的出家动机都不像是对不幸的世俗生活的逃避。」</blockquote>",
+      "source": "01-renshengjieyou/rs-03.md"
+    },
+    {
+      "id": "rs-04",
+      "collection": "book",
+      "origin": "book",
+      "title": "觉悟就是看清“我”是一场幻觉",
+      "theme": "无我与执",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "禅定",
+        "苦行",
+        "缘起",
+        "无我"
+      ],
+      "date": "2026-09",
+      "order": 4,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "第3讲 悉达多，你觉悟到什么？（觉悟的内涵）",
+      "kicker": "第3讲",
+      "body": "<h4>这一讲在讲什么</h4><p>悉达多先跟阿罗逻迦罗摩等老师学禅定，很快达到很深的境界，却发现一出定还是苦——那种自由是<strong>局部而有限的，随时空转换就失去</strong>，没法随身带走。他又进苦行林折了六年身体，饿成骷髅，同样没解脱，只好接受牧羊女的乳糜，转向中道。 在菩提树下，他不再靠压制，而是以放松的方式如实观察心的运作，问题一个接一个：老病死从何而来？因为有生。那&quot;生&quot;从何时开始？无限细分下去，根本找不到一个开端，我们却想当然地以为有个&quot;我&quot;在出生、在活着。 他看清的链条是：<strong>爱—取—有</strong>。因为有贪爱，就有执取；因为执取，就凝固成顽固的自我感。觉悟不是神启，也不是灵光一闪，而是看清&quot;我&quot;本来只是一连串意识的缘起现象。</p><blockquote>同一主题另见《安心之道》第二章「悉达多的苦与自由」。</blockquote><h4>关键概念</h4><ul><li><strong>禅定的局限</strong>：出定即失，只能提供局部而有限的自由，不是整体解脱</li><li><strong>苦行非道</strong>：极端虐待肉体同样不解决问题，佛陀最终选择了中道</li><li><strong>爱—取—有</strong>：贪爱推动执取，执取凝固成&quot;有我&quot;的顽固认知</li><li><strong>&quot;有&quot;与自我感</strong>：并非真有一个本体的&quot;我&quot;，只是被强大幻觉支撑起来</li><li><strong>缘起观察</strong>：心如海面浪花层层推进，意识活动依前序因缘而生起</li></ul><h4>带走一句</h4><p>恐惧死亡，是因为我们把&quot;我&quot;当成了真实不变的东西。</p><blockquote>原文：「所以，悉达多的觉悟，就是要回答这样一个核心问题：人为何会恐惧死亡？而他的最终答案是：我们错误地理解了“我”。」</blockquote>",
+      "source": "01-renshengjieyou/rs-04.md"
+    },
+    {
+      "id": "rs-05",
+      "collection": "book",
+      "origin": "book",
+      "title": "生也是苦，得就意味着终将失去",
+      "theme": "苦与烦恼",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "顺手"
+      ],
+      "spend_will": [
+        "不用毅力"
+      ],
+      "tags": [
+        "四圣谛",
+        "八苦",
+        "求不得",
+        "中道"
+      ],
+      "date": "2026-09",
+      "order": 5,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "第4讲 为何“生”也是人间之苦？（人生八苦）",
+      "kicker": "第4讲",
+      "body": "<h4>这一讲在讲什么</h4><p>觉悟后的佛陀担心真理太难以说清，于是用&quot;方便&quot;——因人施教。他走到鹿野苑，找到当年离开他的五位苦行者，先把两端都否掉：既不放纵感官享乐，也不自我禁欲，要走<strong>中道</strong>。这次说法讲了苦、集、灭、道，也就是&quot;四圣谛&quot;——先看清世间的苦，再找出成因，然后才有灭苦与灭苦的方法。 八苦里最难理解的是&quot;生苦&quot;。中国话说&quot;好死不如赖活着&quot;，生怎么会苦？成庆用得失关系来论证：得到就意味着终将失去，失去若苦，那么得在本质上也是苦的。<strong>生的价值被奠基于苦之上，生又有何乐？</strong> 他还把镜头拉回当下：物质越丰富，&quot;求不得苦&quot;反而越严重。鲍曼说消费主义要的正是一种&quot;即时满足&quot;——满足感来得快也消失得快，才能让人永远渴求下一件商品。</p><blockquote>同一主题另见《安心之道》第二章「悉达多的苦与自由」。</blockquote><h4>关键概念</h4><ul><li><strong>四圣谛</strong>：苦是世间皆苦，集是苦的成因，灭是灭苦的结果，道是灭苦的方法</li><li><strong>人生八苦</strong>：生、老、病、死、忧悲恼、怨憎会、恩爱别离、所欲不得</li><li><strong>五盛阴苦</strong>：八苦的总归结，指身心永远焦灼造作、难以安顿</li><li><strong>生苦</strong>：得是失的因，失去若苦，得也就苦，故生的开端已带悲剧性</li><li><strong>求不得苦</strong>：消费社会不断制造新的渴求，让欲望永无休止</li></ul><h4>带走一句</h4><p>苦不是&quot;要不到&quot;，是&quot;得到&quot;这件事本身就预告了失去。</p><blockquote>原文：「如果失去是苦，得到又是失的因，那么得在本质上也是苦的。」</blockquote>",
+      "source": "01-renshengjieyou/rs-05.md"
+    },
+    {
+      "id": "rs-06",
+      "collection": "book",
+      "origin": "book",
+      "title": "苦的不是对象，是你对它的认知",
+      "theme": "苦与烦恼",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "五蕴",
+        "三苦",
+        "执着",
+        "集谛"
+      ],
+      "date": "2026-09",
+      "order": 6,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "第5讲 我们为什么会苦？（躁动的五蕴、爱欲执着）",
+      "kicker": "第5讲",
+      "body": "<h4>这一讲在讲什么</h4><p>八苦之后，佛学又给了两套更细的拆解。一套是&quot;五蕴&quot;：把生命分成色（物质）与受、想、行、识（心的功能）。<strong>它的用意不是做学问，而是解释苦如何从心里滋生</strong>——认知过程快到自己都看不出来，只有借助禅定的观照力才能看清。 另一套是&quot;三苦&quot;：苦苦是逆境本身，坏苦是乐感消失后的落差，行苦最难懂——等车、排队时那种莫名的焦躁，刷手机就是在填它。 那&quot;一切皆苦&quot;是不是太悲观？成庆说不是。快乐既不纯粹也不稳定：第一杯奶茶是顶点，第二杯就减半，喝到第五杯已经恶心，这就是边际效用递减。所以苦不在对象身上——<strong>同一个人，有人喜爱有人厌恶，可见对象本身不带苦的属性</strong>，苦出在我们对它的判断与执着上。</p><h4>关键概念</h4><ul><li><strong>五蕴</strong>：色是物质层面，受、想、行、识是心法，即认知各阶段的功能</li><li><strong>三苦</strong>：苦苦是逆境，坏苦是乐感消失后的落差，行苦是无常变动带来的不安</li><li><strong>边际效用递减</strong>：匮乏时得到的乐感最强，继续享用则递减，乃至生厌</li><li><strong>一切皆苦</strong>：不否定快乐，只指出它不纯粹、不稳定、无法自足自洽</li><li><strong>执着（染着）</strong>：attachment，心黏着在所贪对象上，得之忘乎所以，失之沮丧</li></ul><h4>带走一句</h4><p>你以为在追快乐，其实是在追一个永远差一点的东西。</p><blockquote>原文：「佛教据此认为，苦的真实原因不在于所谓客观的对象，而在于我们的执着。」</blockquote>",
+      "source": "01-renshengjieyou/rs-06.md"
+    },
+    {
+      "id": "rs-07",
+      "collection": "book",
+      "origin": "book",
+      "title": "躺平和内卷，是同一块跷跷板的两端",
+      "theme": "苦与烦恼",
+      "level": "极高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "顺手"
+      ],
+      "spend_will": [
+        "不用毅力"
+      ],
+      "tags": [
+        "佛系",
+        "躺平",
+        "不执着",
+        "二元论"
+      ],
+      "date": "2026-09",
+      "order": 7,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "第6讲 从“苦”走向“佛系”",
+      "kicker": "第6讲",
+      "body": "<h4>这一讲在讲什么</h4><p>成庆先画了一张当代苦乐浮世绘：务工青年、都市白领、中年人、大学生、应试的孩子、失能老人，各有各的苦；一转身，商场与游乐园里又是满屏的欢愉。他说这两个画面像平行时空，同时存在，&quot;苦&quot;从来没有离开过。 &quot;佛系&quot;本是弱化的宗教词汇，被年轻人当作解压的想象，可以称为&quot;准信仰&quot;；&quot;躺平&quot;则是走向内卷对面，以冷漠和不作为来对抗。<strong>但两者都只是消费社会逻辑的一体两面</strong>，是对&quot;求不得苦&quot;的镜像反抗，并没有真正超越苦。 <strong>跳脱的办法不是换边站，而是跳出二元</strong>。他拿画画举例：按当下的条件认真画，不为作品预设&quot;必须惊世&quot;或&quot;必须卖出高价&quot;，创作过程反而自由。禅宗说&quot;应无所住而生其心&quot;，讲的就是这个。</p><h4>关键概念</h4><ul><li><strong>准信仰</strong>：&quot;佛系&quot;作为弱化的宗教词汇进入日常，反映当代人的精神需求</li><li><strong>佛系与躺平</strong>：对主流价值的消极反抗，本质仍是&quot;求不得苦&quot;的镜像</li><li><strong>苦与乐的二元</strong>：贪与嗔、追求与放弃成对，跳不出就只是从一头换到另一头</li><li><strong>不执着</strong>：不为任何一种幸福标准所固化，也不预设非它不可的结果</li><li><strong>应无所住而生其心</strong>：六祖慧能闻此句当下有所领会，是禅宗的关键语</li></ul><h4>带走一句</h4><p>真正的解忧不是选另一头，是从跷跷板上下来。</p><blockquote>原文：「“内卷”潮流下的“佛系”与“躺平”不过是消费社会逻辑的一体两面，是对“求不得苦”的镜像反抗。」</blockquote>",
+      "source": "01-renshengjieyou/rs-07.md"
+    },
+    {
+      "id": "rs-08",
+      "collection": "book",
+      "origin": "book",
+      "title": "你以为的拥有，只是一种错觉",
+      "theme": "无我与执",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "执着",
+        "八风",
+        "烦恼",
+        "我执"
+      ],
+      "date": "2026-09",
+      "order": 8,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "第7讲 你为何如此执着？（贪嗔痴慢疑与不正见）",
+      "kicker": "第7讲",
+      "body": "<h4>这一讲在讲什么</h4><p>执着是什么？成庆用一部无对白短片《最后的编织》来说明：老妇人织围巾织到线尽，就把自己的头发也织进去，直到被沉重的织物拖下悬崖；爬上来后她扔掉织针，却又被无聊驱使，拿起剪刀剪指甲，开始下一段投入。<strong>心天生就有四处攀援的习惯，非要抓住一个对象才能安顿</strong>，这就是执着。 他接着列出当代人最常执着的对象：身体、名誉地位、财富家人、立场、观点。苏东坡&quot;八风吹不动，一屁打过江&quot;说的就是轻易被搅动的心弦——八风即利、衰、毁、誉、称、讥、苦、乐。 执着的根，是六种错误认知：贪、嗔、痴、慢、疑、不正见。它们不是道德训诫，只是事实层面的描述。<strong>其中最要紧的是&quot;身见&quot;，即把五蕴组成的生命当成一个实有的&quot;我&quot;</strong>。而一个不断变化的&quot;我&quot;，其实无法真正拥有一个不断变化的对象。</p><blockquote>同一主题另见《安心之道》第七章「安心之道」。</blockquote><h4>关键概念</h4><ul><li><strong>执着（染着）</strong>：心与所贪对象产生强&quot;粘性&quot;，事过之后念头仍不断编排情景</li><li><strong>八风</strong>：利、衰、毁、誉、称、讥、苦、乐，四顺四逆，轻易搅动人心</li><li><strong>根本烦恼</strong>：贪、嗔、痴、慢、疑、不正见，是遮蔽事实真相的心识状态</li><li><strong>身见</strong>：把五蕴组成的生命看作一个实有的&quot;我&quot;，即通常说的&quot;我执&quot;</li><li><strong>拥有的错觉</strong>：不断变化的&quot;我&quot;无法真正拥有不断变动的对象，相遇只在刹那</li></ul><h4>带走一句</h4><p>执着不是道德问题，是认知问题——你看错了，才抓得那么紧。</p><blockquote>原文：「总而言之，执着就是我们对某些境界沾染了不舍的心理，其背后体现了我们的某些错误认知。」</blockquote>",
+      "source": "01-renshengjieyou/rs-08.md"
+    },
+    {
+      "id": "rs-09",
+      "collection": "book",
+      "origin": "book",
+      "title": "生活不是重复，是心太粗糙了",
+      "theme": "苦与烦恼",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "无常",
+        "觉察",
+        "生灭法",
+        "三法印"
+      ],
+      "date": "2026-09",
+      "order": 9,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "第8讲 世界是“常”还是“无常”？（无常）",
+      "kicker": "第8讲",
+      "body": "<h4>这一讲在讲什么</h4><p>我们对&quot;无常&quot;的认知几乎全是负面的——伤感、忌讳，联想到勾魂的&quot;黑白无常&quot;。 成庆把方向掰了过来：<strong>让人痛苦的不是&quot;无常&quot;，而是我们看不清无常。</strong> 杯子看上去恒常不变，直到摔破那天才发现它一直在变；感官穿不透&quot;静&quot;的表象，就把&quot;常&quot;当成了真相。 心又太粗糙，每天刷牙、挤牙膏、搭地铁其实全不一样，我们感受不到， 于是觉得日子单调重复，非得靠辞职、远行这种剧烈变化，才能证明自己还活着。</p><h4>关键概念</h4><ul><li><strong>无常</strong>：一切都在变化——山河草木与我们的身心都一样。这是&quot;三法印&quot;的第一条（诸行无常）</li><li><strong>生灭法</strong>：生、住、异、灭，刹那不停。细分为&quot;刹那无常&quot;与&quot;相续无常&quot;</li><li><strong>&quot;常&quot;是认知错觉</strong>：不是世界稳定，是感官分辨不出那些只是虚假的稳定</li><li><strong>心的粗细决定看见什么</strong>：心专注细腻，才看得见稳定表面下的涟漪；心粗糙就像镜头失焦</li><li><strong>十四难与中箭喻</strong>：世界是常是无常、有边是无边——佛陀拒绝回答。中箭者非要先弄清箭的材质才肯疗伤，只会毒发身亡</li></ul><h4>带走一句</h4><p>&quot;日日是好日&quot;——不是生活没变化，是你的观察力没跟上。</p><blockquote>原文：「在下雨天听雨，用你的全身来品味这一刻；雨天听雨、雪天看雪。夏天感受夏天的炎热，冬天体验刺骨的寒冷。打开五感，用全身品味这一瞬间，原来这就是『日日是好日』的意思。」</blockquote>",
+      "source": "01-renshengjieyou/rs-09.md"
+    },
+    {
+      "id": "rs-10",
+      "collection": "book",
+      "origin": "book",
+      "title": "越努力越痛苦，因为你假想了一个“我”",
+      "theme": "无我与执",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "无我",
+        "析空",
+        "五蕴",
+        "我执"
+      ],
+      "date": "2026-09",
+      "order": 10,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "第9讲 “我”真的存在吗？（无我）",
+      "kicker": "第9讲",
+      "body": "<h4>这一讲在讲什么</h4><p>现代人把&quot;我&quot;当成天经地义，成庆先摆出旁证：传统社会把&quot;我&quot;放进天地秩序里，现代人却把&quot;我&quot;抽成一个孤立的玻璃球；拉康、加扎尼加都说&quot;自我&quot;是幻觉。佛学用&quot;析空&quot;层层拆解——那先比丘问弥兰王&quot;头是那先吗&quot;，与忒修斯之船如出一辙，最后只剩&quot;相续而不同&quot;。<strong>&quot;我&quot;不是没有，而是找不到一个恒常不变的本质。</strong> 苦的根子就在这里：你预设了一个不变的&quot;我&quot;，上午那顿责骂才能一路背到第二天。</p><blockquote>同一主题另见《安心之道》第八章「谁控制了“我”」。</blockquote><h4>关键概念</h4><ul><li><strong>析空</strong>：从空间、时间角度层层拆解认识对象，发现每个组成部分里都找不到&quot;我&quot;</li><li><strong>相续而不同</strong>：像一条河，每一滴水都不是河，又都是河；过去与现在的我既相关又不同</li><li><strong>五蕴</strong>：色、受、想、行、识，身心的一连串作用，其中没有一个能操纵的&quot;我&quot;</li><li><strong>我所</strong>：与&quot;我&quot;相对、&quot;我&quot;想要主宰和控制的一切对象</li><li><strong>无常即苦，苦即非我</strong>：起了想主宰的心，就说明已预设一个真实的&quot;我&quot;，这是苦最深层的原因</li></ul><h4>带走一句</h4><p>让&quot;我&quot;难受一整天的，不是那句责骂，是那个被假想出来、不肯散场的&quot;我&quot;。</p><blockquote>原文：「为什么我们会苦？因为我们想要主宰。而想要主宰，其实就说明我们已经产生了一种认知，也就是有一个真实的“我”」</blockquote>",
+      "source": "01-renshengjieyou/rs-10.md"
+    },
+    {
+      "id": "rs-11",
+      "collection": "book",
+      "origin": "book",
+      "title": "谁缚汝——没有那个需要和解的“我”",
+      "theme": "无我与执",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "无我",
+        "我执",
+        "自由",
+        "活在当下"
+      ],
+      "date": "2026-09",
+      "order": 11,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "第10讲 从“无我”看“与自我和解”",
+      "kicker": "第10讲",
+      "body": "<h4>这一讲在讲什么</h4><p>&quot;无我&quot;最容易被误读成虚无，成庆先堵住这个口子：它否定的只是&quot;恒常不变的我&quot;，并不否定身心的功能，所以因果业报、修行、觉悟都还成立。接着他数了一遍不自由的来源——身体的衰病、自然环境的限制、政治与道德的约束，人越想改造世界换取自由，越被新一轮目标套牢。最后落到&quot;自我和解&quot;：<strong>过去已灭、未来未生，所谓和解，其实是心造出了一个&quot;我受伤了&quot;的剧本。</strong> 禅宗三祖反问四祖的那句&quot;谁缚汝？&quot;，早已把答案说破。</p><blockquote>同一主题另见《安心之道》第八章「谁控制了“我”」。</blockquote><h4>关键概念</h4><ul><li><strong>&quot;无我&quot;不是虚无</strong>：只否定恒常的&quot;我&quot;，不否定身心的作用，否则谁在修行、谁在受报</li><li><strong>不自由的四重来源</strong>：身体、自然、政治社会、道德舆论，改造了世界还会有新目标</li><li><strong>自我和解的误区</strong>：把过去和现在当成同一个&quot;我&quot;，才背上早已过去的痛苦</li><li><strong>谁缚汝</strong>：僧璨问&quot;谁绑了你&quot;，道信答&quot;无人缚&quot;——冲突本就是心造出来的</li><li><strong>活在当下</strong>：这个生灭无常的&quot;我&quot;，每一刻都是&quot;我&quot;，无需去别处寻找</li></ul><h4>带走一句</h4><p>没有谁绑着你，也没有一个非和解不可的过去——松开那个&quot;受伤的我&quot;，当下即是。</p><blockquote>原文：「禅宗四祖道信曾经向三祖僧璨请教如何解脱，僧璨便问他：“谁缚汝？”意思是，谁绑了你？道信回答说：“无人缚。”」</blockquote>",
+      "source": "01-renshengjieyou/rs-11.md"
+    },
+    {
+      "id": "rs-12",
+      "collection": "book",
+      "origin": "book",
+      "title": "戒律不是束缚，是给心清场",
+      "theme": "无我与执",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "我执",
+        "戒律",
+        "烦恼心",
+        "如理作意"
+      ],
+      "date": "2026-09",
+      "order": 12,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "第11讲 如何破除“我执”？（戒律的精神与修行的逻辑）",
+      "kicker": "第11讲",
+      "body": "<h4>这一讲在讲什么</h4><p>破&quot;我执&quot;从哪下手？成庆给出修行的四句次第——亲近善士、听闻正法、如理作意、法随法行，也就是把听来的道理放到日常里反复辨析、再落成行动。接着他把&quot;我&quot;拆得更细：五蕴不够用，还有十二入、十八界，乃至七十五法、一百法，目的只有一个——<strong>在这些分类里逐个去找&quot;我&quot;，找到哪儿都找不到。</strong> 而破我执首先要过的是烦恼心：贪嗔痴慢疑这些根本烦恼，会长成忿、恨、恼、害、悭、覆、诳、谄这些具体样貌。戒律因此不是道德教条，而是先把心从容易生烦恼的环境里挪开。</p><h4>关键概念</h4><ul><li><strong>亲近善士、听闻正法、如理作意、法随法行</strong>：修行的四步，就是佛学版的&quot;知行合一&quot;</li><li><strong>随烦恼</strong>：根本烦恼的具体样貌，如忿（当下不平）、恨（事后不忘）、嫉（不容他人比自己强）</li><li><strong>五钝使</strong>：贪、嗔、痴、慢、疑，五种与生俱来、极难断除的烦恼</li><li><strong>五利使</strong>：五种不正确的见解，其中&quot;身见&quot;就是我执，修行要转的就是它</li><li><strong>戒律的精神</strong>：不是束缚天性，而是防非止恶，让心不被外境搅浊</li></ul><h4>带走一句</h4><p>浊水搅不出倒影——想让心看清自己，先要停止往里面投颜料。</p><blockquote>原文：「人怀爱欲不见道，譬如浊水，以五彩投其中，致力搅之，众人共临水上，无能睹其影者」</blockquote>",
+      "source": "01-renshengjieyou/rs-12.md"
+    },
+    {
+      "id": "rs-13",
+      "collection": "book",
+      "origin": "book",
+      "title": "心先定下来，才看得见真相",
+      "theme": "禅修实修",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "八正道",
+        "戒定慧",
+        "五停心观",
+        "禅定"
+      ],
+      "date": "2026-09",
+      "order": 13,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "第12讲 八正道与定的修行",
+      "kicker": "第12讲",
+      "body": "<h4>这一讲在讲什么</h4><p>从苦谛、集谛走到道谛，佛陀开出的具体道路就是八正道。成庆把它归成三束：正语、正业、正命属戒，正念、正定、正精进属定，正见、正思惟属慧，三者不是并列的名词，而是&quot;由戒生定、由定生慧&quot;的一条链。佛教还把生命分为欲界、色界、无色界，越往上越依赖禅定。<strong>定不是目的，是让你能透过烦恼的迷雾看清&quot;无我&quot;。</strong> 对治不同烦恼有五停心观：贪重修不净观、嗔重修慈悲观、散乱修数息观，另有因缘观与念佛观。</p><h4>关键概念</h4><ul><li><strong>八正道</strong>：正见、正思惟、正语、正业、正命、正精进、正念、正定，灭苦的八条路</li><li><strong>戒定慧三学</strong>：由戒生定，由定生慧，最终导向解脱</li><li><strong>三界</strong>：欲界（财色名食睡）、色界与无色界，后两者必须靠禅定抵达</li><li><strong>四禅八定</strong>：色界四禅与无色界四定，让心安止在呼吸等对象上，由粗入细</li><li><strong>五停心观</strong>：修定的初阶准备，用不净、慈悲、数息、因缘、念佛五种观法对治不同的烦恼</li></ul><h4>带走一句</h4><p>不必先相信&quot;无我&quot;，先让心安止下来——迷雾散了，真相自己会显形。</p><blockquote>原文：「修戒获定，得大果报。修定获智，得大果报。修智心净，得等解脱」</blockquote>",
+      "source": "01-renshengjieyou/rs-13.md"
+    },
+    {
+      "id": "rs-14",
+      "collection": "book",
+      "origin": "book",
+      "title": "观身不净，不是让你讨厌自己",
+      "theme": "禅修实修",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "四念处",
+        "观身不净",
+        "观受是苦",
+        "观心无常"
+      ],
+      "date": "2026-09",
+      "order": 14,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "第13讲 “四念处”的内涵与实践",
+      "kicker": "第13讲",
+      "body": "<h4>这一讲在讲什么</h4><p>&quot;念&quot;是观察，&quot;处&quot;是境界。四念处，就是针对身、受、心、法这四处最容易生错认的地方去观察：观身不净、观受是苦、观心无常、观法无我。成庆特别纠了一个偏：<strong>&quot;观身不净&quot;不是让人厌恶自己。</strong> 佛陀时代有比丘因修不净观而极端厌世、纷纷自杀，佛陀只好改教观呼吸。所以看破色相的目的，是不被&quot;美的才是我&quot;这种贪执绑架——胖我与瘦我是平等的，都不是本质意义上的我。四念处也从&quot;观心无常&quot;自然过渡到&quot;观法无我&quot;。</p><h4>关键概念</h4><ul><li><strong>四念处</strong>：观身不净、观受是苦、观心无常、观法无我，观察身心与环境</li><li><strong>观身不净</strong>：用污秽瓦解对色相的贪着，实质是看到美的认知背后有贪执心</li><li><strong>观受是苦</strong>：乐受从不稳定，总在滑向苦受，沉溺与沮丧是一体两面</li><li><strong>观心无常</strong>：念头也走生、住、异、灭，专注反观才看得见念头的生灭</li><li><strong>安那般那</strong>：即数息观、观呼吸，佛陀因不净观出偏而改教的方法</li></ul><h4>带走一句</h4><p>把&quot;我&quot;从美丑与苦乐里拆出来，剩下的才是可以平等对待的当下。</p><blockquote>原文：「“观身不净”表面上在用污秽瓦解美丽，事实上是在提醒我们对美的认知背后有一种贪执心」</blockquote>",
+      "source": "01-renshengjieyou/rs-14.md"
+    },
+    {
+      "id": "rs-15",
+      "collection": "book",
+      "origin": "book",
+      "title": "心像肌肉，越练越有弹性",
+      "theme": "禅修实修",
+      "level": "极高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "每天占用"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "禅修",
+        "止观",
+        "数息",
+        "七支坐法"
+      ],
+      "date": "2026-09",
+      "order": 15,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "第14讲 心的锻炼（从0到1的禅修课）",
+      "kicker": "第14讲",
+      "body": "<h4>这一讲在讲什么</h4><p>所有修行形式——诵经、念佛、拜佛、打坐——核心都回到<strong>&quot;止&quot;与&quot;观&quot;</strong>两个字。成庆把禅修讲得极实在：心像肌肉，需要锻炼才不会萎缩，练习至少带来身心放松、身心柔软、专注力提高三样好处。方法从数息起：自然呼吸，气息呼出时默数一到十，数丢了就从头再来，把像小狗一样乱跑的心一次次拉回呼吸这根柱子。他还给了七支坐法与坐具细节，并提醒散乱、昏沉、头痛都是常见问题，别对抗、别懊恼，只要回到呼吸。禅修也不限于盘腿，走路、喝茶同样可以。</p><blockquote>同一主题另见《安心之道》第九章「心的锻炼」。</blockquote><h4>关键概念</h4><ul><li><strong>止与观</strong>：奢摩他与毗婆舍那，内心安止与思维观察，是一切修行的核心</li><li><strong>六妙门</strong>：数、随、止、观、还、净，智者大师归纳的禅观次第</li><li><strong>数息</strong>：以呼吸为参考点，一吸一呼算一回合默数一到十，跑掉就拉回来</li><li><strong>七支坐法</strong>：结跏趺坐、挺腰含胸、双肩平垂、手结定印、下巴内收、舌抵上颚、眼睛微闭</li><li><strong>随息</strong>：舍掉数字，继续觉察鼻端呼吸的进出与长短涩滑，等数息稳了再转</li></ul><h4>带走一句</h4><p>不用等烦恼找上门才练——每天把跑掉的心拉回来十次，就是禅修。</p><blockquote>原文：「就像身体的肌肉需要适当的锻炼才不至于萎缩一样，心也需要锻炼才会更放松，更有弹性，也更专注。」</blockquote>",
+      "source": "01-renshengjieyou/rs-15.md"
+    },
+    {
+      "id": "rs-16",
+      "collection": "book",
+      "origin": "book",
+      "title": "努力只是因，结果得看缘",
+      "theme": "缘起与业力",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "缘起",
+        "十二因缘",
+        "因果",
+        "爱取有"
+      ],
+      "date": "2026-09",
+      "order": 16,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "第15讲 十年修得同船渡（缘起）",
+      "kicker": "第15讲",
+      "body": "<h4>这一讲在讲什么</h4><p>缘起是佛学最独特的观念：一切人事物都依条件而生、依条件而灭，不是由&quot;我&quot;或某个造物主主宰。佛陀用十二因缘把生命流转串成一条链——无明、行、识、名色、六处、触、受、爱、取、有、生、老死，可分过去、现在、未来三世。成庆指出，理论上有十二支，实际下手观察的是<strong>&quot;爱&quot;&quot;取&quot;&quot;有&quot;这三支</strong>：一有爱染就起执取，执取又不断强化&quot;我有&quot;的存在感。落到现实，人与人的相遇分离也是如此——《你的名字》的红线、地铁上与陌生人的擦肩，背后都有一张看不见的因缘之网。</p><blockquote>同一主题另见《安心之道》第三章「“缘起”的世界」。</blockquote><h4>关键概念</h4><ul><li><strong>缘起</strong>：此有故彼有，此生故彼生，万物互为条件、相互依存</li><li><strong>十二因缘</strong>：无明、行、识、名色、六处、触、受、爱、取、有、生、老死，生命流转的链条</li><li><strong>爱、取、有</strong>：最易观察的三支，爱染→执取→对&quot;我&quot;的实有肯定</li><li><strong>三世</strong>：无明与行属过去的因，识到有属现在的果，生与老死属未来的果</li><li><strong>因果律不等于单因单果</strong>：善因要成熟也需复杂条件，努力是促成条件而非控制结果</li></ul><h4>带走一句</h4><p>别以为努力就能拿住结果——你只能让条件成熟，剩下的交给缘。</p><blockquote>原文：「实现理想固然需要我的努力，但我也只能尽力让因缘条件成熟，无法控制结果。」</blockquote>",
+      "source": "01-renshengjieyou/rs-16.md"
+    },
+    {
+      "id": "rs-17",
+      "collection": "book",
+      "origin": "book",
+      "title": "不是运气好坏，是业力在悄悄推着你走",
+      "theme": "缘起与业力",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "业力",
+        "缘起",
+        "别业共业",
+        "无明"
+      ],
+      "date": "2026-09",
+      "order": 17,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "第16讲 谁曾见过风？（业力的秘密）",
+      "kicker": "第16讲",
+      "body": "<h4>这一讲在讲什么</h4><p>缘起回答了万物依什么而聚散，但还要追问：是什么力量在推动这些条件运转？成庆借宫崎骏《起风了》里的风来说——风看不见，却推着人相遇、相离，这股力量在佛教里就叫&quot;业力&quot;。 业不是判决书。它是身、口、意造作留下的印迹与惯性，又反过来推动后续的造作。所以&quot;好人未必有好报&quot;并不矛盾：业果成熟要等条件配合，还要分个人的别业与群体的共业，更不能只盯着当下这一生。 <strong>佛教给的出路不是压抑着不造业，而是把&quot;无明&quot;和&quot;我执&quot;看清。</strong> 对错的二元一松，争论和不安也就停了。</p><blockquote>同一主题另见《安心之道》第四章「生命流转的秘密」。</blockquote><h4>关键概念</h4><ul><li><strong>业</strong>：身、口、意三方面的造作留下的印迹与惯性，并产生推动后续造作的动力</li><li><strong>善业／恶业／无记业</strong>：按性质三分；无记业如行走发呆，非善非恶，一般不引发果报</li><li><strong>异熟果</strong>：善恶业要等未来因缘成熟才显现，且结果中性——只分苦乐，不分善恶</li><li><strong>别业与共业</strong>：前者是个人独受的果报，后者是群体共同面对的环境果报</li><li><strong>远离之定</strong>：依八正道修出的定，远离二元对错认知，内心安止，断除疑惑</li></ul><h4>带走一句</h4><p>业力不是命定的判决，而是一种可以被看清、被转化的惯性。</p><blockquote>原文：「谁曾见过风？你我皆不曾，但看木叶舞枝头，便晓风穿过。」</blockquote>",
+      "source": "01-renshengjieyou/rs-17.md"
+    },
+    {
+      "id": "rs-18",
+      "collection": "book",
+      "origin": "book",
+      "title": "孤独不是没人陪，是丢了与世界的连接",
+      "theme": "缘起与业力",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "缘起",
+        "孤独",
+        "弱连接",
+        "慈悲"
+      ],
+      "date": "2026-09",
+      "order": 18,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "第17讲 没有人是一座孤岛（从缘起看现代人的孤独感）",
+      "kicker": "第17讲",
+      "body": "<h4>这一讲在讲什么</h4><p>古人也会独处，但不算&quot;孤独&quot;——高适在边塞守岁思乡，苏轼写&quot;千里孤坟&quot;，那份寂寥背后是关系还很紧密。今天的孤独不同：它是人从家庭、宗族、乡邻的关系网里被甩出来之后的&quot;脱嵌&quot;。 <strong>原因之一是关系被单一化了。</strong> 工具理性把一切化成功效计算，消费主义把人当成可计价的对象，于是非功利的互助分享无处容身。互联网又制造出大量&quot;弱连接&quot;：我们每天都在社交，却感到更疏离。 佛学的诊断很直接：孤独是对缘起的迷失。我们从来不是自存的孤岛，越想把自己隔绝出去，越会掉进虚无。对治办法也不是强行社交，而是消融我执，让&quot;一期一会&quot;的珍重与&quot;拔苦予乐&quot;的慈悲自然生起。</p><blockquote>同一主题另见《安心之道》第三章「缘起的世界」。</blockquote><h4>关键概念</h4><ul><li><strong>孤独（现代社会特有）</strong>：不是独处，而是意识和认知层面的疏离感、与有意义的他者相隔离</li><li><strong>工具理性与消费主义</strong>：把关系化约为功效计算与利益交换，掏空了多维的意义感</li><li><strong>弱连接</strong>：互联网上用意识建构的漂浮关系，看似拓宽了网络，实则更空洞</li><li><strong>一期一会</strong>：因缘转瞬即逝、无法重复，所以要在当下全身心投入，不草草打发</li><li><strong>慈悲（拔苦予乐）</strong>：悲在拔苦，慈在予乐；佛教的慈悲以无我与无所得为底色</li></ul><h4>带走一句</h4><p>孤独的解药不是找人来陪，是看见自己从来就和世界互为条件。</p><blockquote>原文：「没有人是一座孤岛，可以自全。每个人都是大陆的一片，整体的一部分。」</blockquote>",
+      "source": "01-renshengjieyou/rs-18.md"
+    },
+    {
+      "id": "rs-19",
+      "collection": "book",
+      "origin": "book",
+      "title": "「空」不是虚无，是万物没有不变的本质",
+      "theme": "空与般若",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "空",
+        "析空体空",
+        "十八空",
+        "我执"
+      ],
+      "date": "2026-09",
+      "order": 19,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "第18讲 红辣椒、尼奥与盗梦空间（什么是空？）",
+      "kicker": "第18讲",
+      "body": "<h4>这一讲在讲什么</h4><p>&quot;四大皆空&quot;被多数人当成&quot;人生没意义&quot;，这恰恰是最大的误解。<strong>&quot;空&quot;不是没有，而是说一切事物都没有不变的本质。</strong> 它先承认事物存在，再指出这存在不是你心里以为的那个恒常自洽的存在。 理解&quot;空&quot;有两条路：小乘的&quot;析空&quot;把五蕴一路拆到极微，找不到&quot;我&quot;，属于&quot;拙度&quot;；大乘的&quot;体空&quot;当体直证，属于&quot;巧度&quot;。但连&quot;空&quot;也不能抓住不放，《般若经》展开为&quot;十八空&quot;，就是怕你把&quot;空&quot;又当成一个实有的东西。 《黑客帝国》里墨菲斯问尼奥&quot;什么是真实&quot;，《盗梦空间》要靠陀螺分辨梦境，今敏的《红辣椒》里现实与梦境彼此交涉——单一处境下我们根本判不出真假。佛教的&quot;空&quot;正是要解构这份&quot;真实性&quot;，而不是逃到它的反面&quot;虚无&quot;去。</p><blockquote>同一主题另见《安心之道》第六章「不二与空」。</blockquote><h4>关键概念</h4><ul><li><strong>空</strong>：无自性、无本质，不是否定存在，而是否定存在具有不变的本质</li><li><strong>析空与体空</strong>：前者把五蕴拆解到极微来找&quot;我&quot;，是&quot;拙度&quot;；后者当体直证，是&quot;巧度&quot;</li><li><strong>十八空</strong>：般若经从内外、有为无为等角度层层破斥，连&quot;空&quot;也不能被执着</li><li><strong>钵中之脑</strong>：普特南的假设——你无法确认自己的感受来自真世界还是电子信号</li><li><strong>我执</strong>：把五蕴身心当成实体化的&quot;我&quot;，是一切苦的根源</li></ul><h4>带走一句</h4><p>与其追问哪个世界才是真的，不如先松开那只一定要&quot;背后有个不变本质&quot;的手。</p><blockquote>原文：「佛教的“空”是在承认一切事物的存在基础之上，进一步告诉你，这个存在不是你心中所认知的那个恒常自洽的存在。」</blockquote>",
+      "source": "01-renshengjieyou/rs-19.md"
+    },
+    {
+      "id": "rs-20",
+      "collection": "book",
+      "origin": "book",
+      "title": "善恶不是绝对的，但别当成虚无的借口",
+      "theme": "空与般若",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "心经",
+        "不垢不净",
+        "五蕴皆空",
+        "闻思修"
+      ],
+      "date": "2026-09",
+      "order": 20,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "第19讲 不垢不净：善恶是绝对的吗？",
+      "kicker": "第19讲",
+      "body": "<h4>这一讲在讲什么</h4><p>《心经》里最被误读的，大概是&quot;色即是空&quot;。它说的不是&quot;色之外另有一个空&quot;，而是色法的当下就是空，两者不是&quot;事物与属性&quot;的关系——所以紧接着要讲&quot;空不异色&quot;，专门防止人滑向断灭虚无：世界依旧缘起生动，只是不再&quot;硬邦邦&quot;。 然后是&quot;不生不灭，不垢不净，不增不减&quot;。垢与净本来就依条件而判：三十年前觉得卫生的东西今天未必如此；《孔子家语》里的香与臭，一遇上榴莲和臭豆腐就说不清了。<strong>承认善恶不绝对，不等于取消道德。</strong> 它要破的是把&quot;恶&quot;本质化——这种偏执常表现为&quot;严于律他，宽于待己&quot;，最终让人变成自己所仇恨的样子。 从&quot;闻&quot;到&quot;思&quot;再到&quot;修&quot;，《心经》说的是照见五蕴皆空，才真能度一切苦厄。</p><blockquote>同一主题另见《安心之道》第六章「不二与空」。</blockquote><h4>关键概念</h4><ul><li><strong>不垢不净</strong>：诸法空相，垢净与善恶都依条件而立，没有绝对意义</li><li><strong>色不异空，空不异色</strong>：色法与空无别，不是离开色另找一个&quot;空&quot;，以防断灭空</li><li><strong>照见五蕴皆空</strong>：以般若观照身心，见五蕴中无实有之&quot;我&quot;，故能&quot;度一切苦厄&quot;</li><li><strong>闻思修</strong>：闻法、思维比对生活、直接观照身心三层，从知道&quot;空&quot;走到证到&quot;空&quot;</li><li><strong>严于律他，宽于待己</strong>：把善恶绝对化的常见后果——并非依道德行事，而是依我执变换立场</li></ul><h4>带走一句</h4><p>说善恶不绝对，是为了不让你在恨恶的时候，把自己也变成那个样子。</p><blockquote>原文：「是诸法空相，不生不灭，不垢不净，不增不减。」</blockquote>",
+      "source": "01-renshengjieyou/rs-20.md"
+    },
+    {
+      "id": "rs-21",
+      "collection": "book",
+      "origin": "book",
+      "title": "手指不是月亮，概念也不是真理",
+      "theme": "空与般若",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "以手指月",
+        "本质化思维",
+        "心经",
+        "言说"
+      ],
+      "date": "2026-09",
+      "order": 21,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "第20讲 以手指月：真理能否言说？",
+      "kicker": "第20讲",
+      "body": "<h4>这一讲在讲什么</h4><p>佛陀的悟境和日常经验差得太远，只好用概念和比喻来指引——这就是&quot;以手指月&quot;：顺着手指去看月亮，别盯着手指。概念与事物本来就不等同，把手指当成月亮，就是把言说当成了真理。 不必因此焦虑，佛学恰恰是欢迎怀疑的，经典常以弟子提问开篇。成庆挑了个日常例子：我们越来越只把高铁当&quot;交通工具&quot;，谁稍微逾越这个标签设下的预期，就让人烦躁，&quot;厌童心理&quot;和&quot;熊孩子事件&quot;都是这么来的。<strong>对本质化的认定越固化，我执就越深</strong>，因为我们要求他人和环境不容更改。 《心经》后半段的&quot;空中无色&quot;&quot;无智亦无得&quot;，否定的正是这种本质化：连凡夫法与圣人法的差别也不实有，因为&quot;空&quot;不是五蕴之外的另一种属性。</p><blockquote>同一主题另见《安心之道》第六章「不二与空」。</blockquote><h4>关键概念</h4><ul><li><strong>以手指月</strong>：手指只是指引，月亮才是目的；概念与比喻都只是&quot;指月的手&quot;</li><li><strong>本质化思维</strong>：给事物贴上不容更改的标签，标签越固化，我执越深</li><li><strong>空中无色</strong>：空中的五蕴并非实有，只是如影如幻地显现而已</li><li><strong>无智亦无得</strong>：佛智与佛的境界也不实有，所以无法真正&quot;有所得&quot;</li><li><strong>般若波罗蜜多</strong>：到彼岸的智慧，能除一切苦，经中称之为&quot;大神咒&quot;&quot;大明咒&quot;</li></ul><h4>带走一句</h4><p>别把指月的手指当成月亮——我们争的多半是手指，月亮还没抬头看过。</p><blockquote>原文：「凡是能够说的事情，都能够说清楚，而凡是不能说的事情，就应该沉默。」</blockquote>",
+      "source": "01-renshengjieyou/rs-21.md"
+    },
+    {
+      "id": "rs-22",
+      "collection": "book",
+      "origin": "book",
+      "title": "把「空」当成「没有」，是最大的误解",
+      "theme": "空与般若",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "无自性",
+        "自性见",
+        "毕竟空",
+        "闻思修"
+      ],
+      "date": "2026-09",
+      "order": 22,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "第21讲 无自性：如何正确理解“空”？",
+      "kicker": "第21讲",
+      "body": "<h4>这一讲在讲什么</h4><p>烦恼的根是&quot;无明&quot;，而&quot;无明&quot;的具体样子就是&quot;自性见&quot;：默认一切事物都有自有、独一、常住三个特征。我们明明看得见父母在衰老，心里却仍觉得&quot;他们的本质没变&quot;；我们打量一个人，会把他看成一个能独存的实体——实体之间只能对立，现代人的孤独感和社交恐惧，其实就是&quot;独一&quot;这一念被推到了极致。 这一讲梳理了两种&quot;空&quot;：从五蕴、十二入、十八界入手找不到&quot;我&quot;，叫&quot;人无我&quot;，但仍留下&quot;极微&quot;，并不彻底；大乘的&quot;法无我&quot;连&quot;无常法&quot;本身也无本质，才叫&quot;毕竟空&quot;。<strong>关键就在何谓&quot;毕竟空&quot;。</strong> 修行的次第是闻、思、修，从&quot;闻所成慧&quot;到&quot;修所成慧&quot;，才可能真的体验到空。最容易掉进的坑是&quot;断见&quot;——把&quot;空&quot;当成虚无主义，这恰恰违背了它。</p><blockquote>同一主题另见《安心之道》第六章「不二与空」。</blockquote><h4>关键概念</h4><ul><li><strong>自性</strong>：自有、独一、常住；&quot;自性见&quot;即把事物当成实体化的根本错误认知</li><li><strong>人无我与法无我</strong>：前者只破五蕴中无我，仍留&quot;极微&quot;；后者连无常法也无本质</li><li><strong>毕竟空</strong>：一切法从本以来无所有，连&quot;空&quot;本身也不能执着为实有</li><li><strong>闻思修</strong>：闻所成慧、思所成慧、修所成慧，从理解&quot;空&quot;到亲证&quot;空&quot;的次第</li><li><strong>断见</strong>：把&quot;空&quot;误解为虚无主义，认为一切都不存在，这违背了&quot;空&quot;的本意</li></ul><h4>带走一句</h4><p>「空」不是把世界看没，是看见一切都靠条件成立，没有谁能单独站住。</p><blockquote>原文：「佛教无论谈“空”还是谈缘起，都是在从不同的角度提醒我们，不要陷入这样的“自性见”当中，否则就会陷入执着，饱尝人生之苦。」</blockquote>",
+      "source": "01-renshengjieyou/rs-22.md"
+    },
+    {
+      "id": "rs-23",
+      "collection": "book",
+      "origin": "book",
+      "title": "抽掉「常」与「断」的跷跷板，人才能安歇",
+      "theme": "空与般若",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "八不",
+        "中论",
+        "常见断见",
+        "无生"
+      ],
+      "date": "2026-09",
+      "order": 23,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "第22讲 八不偈：抽掉二元论的跷跷板",
+      "kicker": "第22讲",
+      "body": "<h4>这一讲在讲什么</h4><p>龙树菩萨作《中论》，是因为人们总把&quot;空&quot;理解错。开篇的&quot;八不&quot;——不生亦不灭，不常亦不断，不一亦不异，不来亦不出——正好对应存在、时间、空间、运动这四组最基本的现象。 以&quot;不生&quot;为例：诸法不自生、不他生、不共生、不无因生，所以&quot;无生&quot;。不是杯子消失了，而是它本来就没有&quot;自性&quot;，不过是条件成熟时呈现的形态。<strong>&quot;常&quot;与&quot;断&quot;最容易一起出现：</strong> 恋爱和婚姻里，我们先把关系当成恒常状态，观察力就钝了，倦怠随之而来；一旦分手离婚，立刻掉进&quot;断见&quot;，觉得人生虚无。可老夫老妻之间，哪有两天的相处是一样的？ 追星、看球时万人如同一人，走出场馆剐蹭一下就互相叫骂——所以&quot;一&quot;不存在，绝对的&quot;异&quot;也不可能。来去要依参照系才能定义，正说明运动并无自足的本质。</p><blockquote>同一主题另见《安心之道》第六章「不二与空」。</blockquote><h4>关键概念</h4><ul><li><strong>八不</strong>：不生不灭、不常不断、不一不异、不来不出，破四组基本现象的实有化</li><li><strong>无生</strong>：诸法不自生、不他生、不共生、不无因生，故本来没有实有的&quot;生&quot;</li><li><strong>常见与断见</strong>：前者把关系看成恒常不变，后者在剧变时觉得断灭虚无，两者互为因果</li><li><strong>不一亦不异</strong>：既非无差别的&quot;一&quot;，也非绝对差别的&quot;异&quot;，集体与个体都依缘而立</li><li><strong>不来亦不出</strong>：来去依参照系而定，说明运动并不具备自洽自足的本质</li></ul><h4>带走一句</h4><p>别在&quot;永远不变&quot;和&quot;一切都完了&quot;之间来回跳——两头都不是真相。</p><blockquote>原文：「不生亦不灭，不常亦不断，不一亦不异，不来亦不出（去）。」</blockquote>",
+      "source": "01-renshengjieyou/rs-23.md"
+    },
+    {
+      "id": "rs-24",
+      "collection": "book",
+      "origin": "book",
+      "title": "觉悟之船，到了岸也要放下",
+      "theme": "空与般若",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "中论",
+        "二谛",
+        "自性见",
+        "无生"
+      ],
+      "date": "2026-09",
+      "order": 24,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "第23讲 无生亦无灭：不要执着觉悟之船",
+      "kicker": "第23讲",
+      "body": "<h4>这一讲在讲什么</h4><p>龙树《中论》用细密的逻辑，把“实有”的执着一一拆掉。先从不来不去说起：佛学不在动、静两端择一，而说运动本无本质。我们之所以为人事的来来去去悲喜起伏，是因为以为那些人事物真实地被拥有过、又真实地消失了。 问题随即升级：连“四圣谛”、解脱、功德这些神圣的法，同样不能执著。<strong>渡河的船到了彼岸就该放下，法尚应舍，何况非法</strong>。龙树又用二谛回应“空即虚无”的误解——不依世俗谛，不得第一义；而正因为“空”，缘起的世间万象才得以成立。</p><blockquote>同一主题另见《安心之道》第六章「不二与空」。</blockquote><h4>关键概念</h4><ul><li><strong>无生</strong>：觉悟者所见的真相——一切法并非实有地生起，也并非实有地消灭</li><li><strong>自性见</strong>：把某个人事物当成独立、自足、不变之实体的错误认知，即烦恼的根源</li><li><strong>二谛</strong>：世俗谛是现象层面的共识，第一义谛是觉悟者所见的“缘起性空”</li><li><strong>如筏喻者</strong>：觉悟之道如渡江之船，到彼岸自然舍船，不抱着它继续前行</li></ul><h4>带走一句</h4><p>“空”不是否定世界，是拆掉那个被许诺的确定性——敢面对空，自由才开始。</p><blockquote>原文：「众因缘生法，我说即是空。亦为是假名，亦是中道义。未曾有一法，不从因缘生。」</blockquote>",
+      "source": "01-renshengjieyou/rs-24.md"
+    },
+    {
+      "id": "rs-25",
+      "collection": "book",
+      "origin": "book",
+      "title": "安心的法门就是“如是”二字",
+      "theme": "佛学入门",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "金刚经",
+        "如是",
+        "如实",
+        "解经"
+      ],
+      "date": "2026-09",
+      "order": 25,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "第24讲 应如是住：何为如是法门？",
+      "kicker": "第24讲",
+      "body": "<h4>这一讲在讲什么</h4><p>进入《金刚经》之前，成庆先问一个更基本的问题：我们该如何读懂一部经典？偏重文字考证与偏重直觉顿悟各有极端，现代教育又常教出只会怀疑、不会深入的人。而理解经典的第一道门其实是“信”——不是盲从，是潜在认知被某句话一下子激活。 《金刚经》开篇，须菩提替我们问出那个难题：想救度众生，这颗心该如何安住、如何降伏？佛陀的回答只有“<strong>应如是住，如是降伏其心</strong>”。<strong>如是即如实，就是顺着当下的因缘去面对与投入，也接受因缘带来的结果</strong>。</p><h4>关键概念</h4><ul><li><strong>如是（如实）</strong>：如事物本来的因缘去面对与实践，而非依着“我”的意愿去挑拣结果</li><li><strong>信</strong>：不一定是信仰佛菩萨，而是对某个观点自然生起的接受与笃定，未必经过层层推理</li><li><strong>众生密集恐惧症</strong>：须菩提的困惑——已解“无我”，却仍被无边众生与无尽烦恼压得心难安</li><li><strong>饥来吃饭，困来即眠</strong>：大珠慧海的“如是”——吃饭就吃饭、睡觉就睡觉，不百般计较</li><li><strong>如是与自然无为之别</strong>：道家顺于道而缺少积极作为，佛家则常怀救度众生的慈悲</li></ul><h4>带走一句</h4><p>安心的法门不在别处：吃饭时只吃饭，焦虑时看清那颗不安的心到底在哪里。</p><blockquote>原文：「善男子、善女人，发阿耨多罗三藐三菩提心，应如是住，如是降伏其心。」</blockquote>",
+      "source": "01-renshengjieyou/rs-25.md"
+    },
+    {
+      "id": "rs-26",
+      "collection": "book",
+      "origin": "book",
+      "title": "佛陀不知疲倦，因为他没有“我”",
+      "theme": "慈悲与菩萨道",
+      "level": "极高",
+      "value": [
+        "认知",
+        "内心",
+        "关系"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "无四相",
+        "我相",
+        "人相",
+        "菩萨道"
+      ],
+      "date": "2026-09",
+      "order": 26,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "第25讲 无四相：佛陀为何能不知疲倦地度化众生？",
+      "kicker": "第25讲",
+      "body": "<h4>这一讲在讲什么</h4><p>同样是已解“无我”的圣者，须菩提却不能像佛陀那样，对无边众生始终不疲倦地度化。这一讲给出一句话的答案：<strong>因为菩萨没有“我、人、众生、寿者”这四相</strong>。 “我相”来自能所二元——一旦把能观的我当成实体，对应的境界也随之变硬；由此生“人相”：那个触怒你的人，其实只是你脑海里被固定下来的标签；再聚成“众生相”、绵延成“寿者相”。佛陀之所以不知疲倦，是因为他根本不会生起与他人、与无尽时空的对立感。</p><h4>关键概念</h4><ul><li><strong>四相</strong>：我相、人相、众生相、寿者相——我执在自我、他者、群体、时间四个维度上的投影</li><li><strong>我相</strong>：因二元的“能所”结构而生，把能观的主体错认为实体性的存在</li><li><strong>人相</strong>：被他者固化在心里的形象与标签，让人背负过去的锁链反复受伤</li><li><strong>众生相</strong>：对某个族群、国家、宗教形成的整体性、僵化认知</li><li><strong>无四相</strong>：不是否定四相，而是看清四相都无本质，这才是大乘菩萨道的核心标准</li></ul><h4>带走一句</h4><p>你记恨的那个人早已不在，留下来的是你亲手造出来的“人相”。</p><blockquote>原文：「若菩萨有我相、人相、众生相、寿者相，即非菩萨。」</blockquote>",
+      "source": "01-renshengjieyou/rs-26.md"
+    },
+    {
+      "id": "rs-27",
+      "collection": "book",
+      "origin": "book",
+      "title": "见如来，是在诸相当中看见非相",
+      "theme": "空与般若",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "不住相",
+        "布施",
+        "虚妄",
+        "如来"
+      ],
+      "date": "2026-09",
+      "order": 27,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "第26讲 不住相：如何才能见如来？",
+      "kicker": "第26讲",
+      "body": "<h4>这一讲在讲什么</h4><p>“无四相”不等于否定四相，而是看清它们都没有本质。那么具体该怎么做？佛陀的答案是不住相布施：助人时不执著有一个实有的施者、施物与受者。<strong>我们之所以常从助人出发、以苦恼收场，正是因为暗中索取感恩与回报</strong>。 接着问题更深一层：怎样才能见到如来？佛陀说“凡所有相，皆是虚妄；若见诸相非相，则见如来”。品牌、厕所甚至“父子”都只是因缘条件下的名相，不是绝对的存在。真正的如来，是“无所从来，亦无所去”。</p><blockquote>同一主题另见《安心之道》第六章「不二与空」。</blockquote><h4>关键概念</h4><ul><li><strong>不住相布施</strong>：布施时不住于色声香味触法，不执著施者、施物、受者三者实有</li><li><strong>凡所有相，皆是虚妄</strong>：一切相都无本质属性，只是概念标签，不可迷执其中</li><li><strong>若见诸相非相，则见如来</strong>：在一切相当下看穿其无本质，才是真正见到如来</li><li><strong>如来</strong>：“无所从来，亦无所去，是名如来”——来去有样貌，却非绝对</li><li><strong>无量珍宝，不求自得</strong>：越不执著地去做，结果反而不可思议</li></ul><h4>带走一句</h4><p>助人而不图报不是高尚，是把自己从“以相换相”的祭品位置上放下来。</p><blockquote>原文：「凡所有相，皆是虚妄；若见诸相非相，则见如来。」</blockquote>",
+      "source": "01-renshengjieyou/rs-27.md"
+    },
+    {
+      "id": "rs-28",
+      "collection": "book",
+      "origin": "book",
+      "title": "二元思维是人给自己造的牢笼",
+      "theme": "无我与执",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "应无所住",
+        "六度",
+        "般若",
+        "二元论"
+      ],
+      "date": "2026-09",
+      "order": 28,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "第27讲 应无所住：突破自我的精神牢笼",
+      "kicker": "第27讲",
+      "body": "<h4>这一讲在讲什么</h4><p>这一讲把《金刚经》的落点收在一句上：<strong>“应无所住而生其心”</strong>。它先借六度铺开菩萨道的实践面——持戒以利益他人为本，忍辱不是强行压制怒火，精进错了方向就成了“邪精进”，越修越把自我养大。 关键枢纽仍是般若：缺乏空性智慧，做再多善事也心难安。佛陀既不许我们执著“有”，也不许滑向“无”，因为<strong>我们习惯的二元论思维，正是现代人的精神牢笼——拼命冲向一端，碰壁后又撞向另一端</strong>。</p><h4>关键概念</h4><ul><li><strong>应无所住而生其心</strong>：在六尘上不落执著，心不外逐，却仍能清晰感知世界、度化众生</li><li><strong>六度</strong>：布施、持戒、忍辱、精进、禅定、般若，其中般若为主轴，缺之则不成菩萨行</li><li><strong>我相是忍辱的障碍</strong>：把自己与对象都看成实有，怒火才会烧成“不吐不快”</li><li><strong>邪精进</strong>：方向错误却拼命修行的努力，反而滋养出一个更膨胀的“大我”</li><li><strong>所谓某某，则非某某，是名某某</strong>：《金刚经》句式，先肯定、后否定，再加语言符号的假名维度</li></ul><h4>带走一句</h4><p>痛苦常常不来自事情本身，而来自你在“非此即彼”两堵墙之间的来回撞击。</p><blockquote>原文：「诸菩萨摩诃萨应如是生清净心，不应住色生心，不应住声、香、味、触、法生心，应无所住而生其心。」</blockquote>",
+      "source": "01-renshengjieyou/rs-28.md"
+    },
+    {
+      "id": "rs-29",
+      "collection": "book",
+      "origin": "book",
+      "title": "禅不是发癫，是把人逼出二元思维",
+      "theme": "禅修实修",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "禅宗",
+        "公案",
+        "直指人心",
+        "无言之教"
+      ],
+      "date": "2026-09",
+      "order": 29,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "第28讲 禅的精神",
+      "kicker": "第28讲",
+      "body": "<h4>这一讲在讲什么</h4><p>“不立文字”被误读成反智，“棒喝”被误读成恣意，仿佛越癫狂越像禅宗。这一讲要澄清：禅不是反佛教，而是把“言”与“不言”的困境推到极致。从灵山拈花微笑、维摩诘默然，到慧可“觅心了不可得”，<strong>禅要做的，是直指人心，让人亲眼看到自己执在哪里</strong>。 德山被卖点心婆子一句“点的哪颗心”问得哑口，南泉斩猫、赵州顶鞋，都是在逼修行人离开概念分别。<strong>禅宗的公案并不给人标准答案，它只管你有没有在当下被问话困住</strong>。</p><h4>关键概念</h4><ul><li><strong>无言之教</strong>：以沉默或动作代替言说表达觉悟境界，如佛陀拈花、维摩诘默然</li><li><strong>直指人心</strong>：不在枝叶上纠缠，直接追问对方的认知迷思，使其反观而自我解套</li><li><strong>将心来，与汝安</strong>：达摩让慧可拿出那颗不安的心，慧可“觅心了不可得”，即是安心</li><li><strong>公案</strong>：禅门以看似无道理的问答应答，逼徒弟走到二元论的绝境</li><li><strong>前念迷即凡夫，后念悟即佛</strong>：觉悟与烦恼，不过一念之间</li></ul><h4>带走一句</h4><p>禅不教你怎么答，只让你看清：那个非答不可、非选不可的冲动，才是要放下的东西。</p><blockquote>原文：「前念迷即凡夫，后念悟即佛。前念著境即烦恼，后念离境即菩提。」</blockquote>",
+      "source": "01-renshengjieyou/rs-29.md"
+    },
+    {
+      "id": "rs-30",
+      "collection": "book",
+      "origin": "book",
+      "title": "观音不在别处，在转念的当下",
+      "theme": "慈悲与菩萨道",
+      "level": "极高",
+      "value": [
+        "认知",
+        "内心",
+        "关系"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "观音",
+        "慈悲",
+        "缘起",
+        "转念"
+      ],
+      "date": "2026-09",
+      "order": 30,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "第29讲 观音菩萨的慈悲法门",
+      "kicker": "第29讲",
+      "body": "<h4>这一讲在讲什么</h4><p>从观音造像由男相转为女相说起，这一讲问的是：佛教眼中的慈悲究竟是什么？一般人的悲心是“露水悲心”，忽隐忽现，带着我与众生的分别和得失计算；菩萨的大悲则是被帮助者反过来毁骂、加害，也不生嗔恨，只生怜悯。 那念观音名号为何能脱险？<strong>关键不在天降一位白衣观音，而在于危急中被激发的至诚专注，使心念改了轨道，事情的因缘也随之松动</strong>。<strong>观音其实在自己的心中——转念，就是观音显灵</strong>。</p><h4>关键概念</h4><ul><li><strong>露水悲心</strong>：普通人的同情忽隐忽现、有限度有前提，仍带着“我”与“众生”的对立</li><li><strong>大悲</strong>：菩萨对众生平等无别、不图回报的慈悲，即使被反噬也不生嗔恨</li><li><strong>称名解脱</strong>：《普门品》所说，遇险时一心称念观音名号即得解脱</li><li><strong>转念改因缘</strong>：至诚的专注使心念改换轨道，进而改变事情演化的方向</li><li><strong>观音在自心</strong>：菩萨以种种身相度化，其本质仍是缘起法则，而非固定的具象存在</li></ul><h4>带走一句</h4><p>“若不回头，谁替你救苦救难；如能转念，何须我大慈大悲”——救你的人，是转念的你。</p><blockquote>原文：「若有无量百千万亿众生受诸苦恼，闻是观世音菩萨，一心称名，观世音菩萨即时观其音声，皆得解脱。」</blockquote>",
+      "source": "01-renshengjieyou/rs-30.md"
+    },
+    {
+      "id": "rs-31",
+      "collection": "book",
+      "origin": "book",
+      "title": "慈悲不够，是因为智慧不够",
+      "theme": "慈悲与菩萨道",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心",
+        "关系"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "慈悲",
+        "般若",
+        "法我执",
+        "无缘慈"
+      ],
+      "date": "2026-09",
+      "order": 31,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "第30讲 般若智慧与大慈大悲",
+      "kicker": "第30讲",
+      "body": "<h4>这一讲在讲什么</h4><p>一般人把慈悲理解成仰望、祈求庇护，成庆却从般若智慧重新定义它：龙树菩萨说“大慈大悲，当习行般若波罗蜜”，不学般若，慈悲只是世俗的善心。<strong>大慈大悲与小慈小悲的分界，在于能否让众生真正离苦得乐</strong>——苦的根源是错认有一个实有的“我”，所以慈悲最终要引导人自己看清苦的根源。慈悲的大小，其实来自智慧的深浅，这也是菩萨必须破除“法我执”的理由。</p><h4>关键概念</h4><ul><li><strong>大慈与大悲</strong>：大慈与一切众生乐，大悲拔一切众生苦；前者给予，后者助其脱困</li><li><strong>般若波罗蜜</strong>：般若是智，波罗蜜是度；龙树主张“大慈大悲，当习行般若波罗蜜”</li><li><strong>小慈小悲</strong>：只有怜悯之心，实无乐事，也不能真正令众生脱苦</li><li><strong>法我执</strong>：比人我执更深的执着，菩萨须破除它才能圆满度化众生</li><li><strong>众生缘慈、法缘慈、无缘慈</strong>：由见苦相而起、依道理而起、无需境界而自然流露</li></ul><h4>带走一句</h4><p>真正的慈悲不是让人好过一点，而是让他有能力看清苦从哪里来。</p><blockquote>原文：「慈悲的“大小”其实来自智慧的“深浅”。」</blockquote>",
+      "source": "01-renshengjieyou/rs-31.md"
+    },
+    {
+      "id": "rs-32",
+      "collection": "book",
+      "origin": "book",
+      "title": "没有智慧的方便，只是随波逐流",
+      "theme": "慈悲与菩萨道",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心",
+        "关系"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "方便",
+        "善巧",
+        "权实",
+        "维摩诘"
+      ],
+      "date": "2026-09",
+      "order": 32,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "第31讲 菩萨道的方便善巧",
+      "kicker": "第31讲",
+      "body": "<h4>这一讲在讲什么</h4><p>有了般若智慧与慈悲心，仍不足以度化众生——众生禀赋、处境各异，于是大乘佛法提出“方便”：在般若基础上展开的种种权宜之计，最终导向佛陀所觉悟的“真实”。<strong>方便的前提是般若智慧与慈悲心</strong>，否则手段就退化成为了情绪所推动的行为，既没有智慧，也失去了慈悲。维摩诘以世俗形象行走红尘而不迷失，正说明“方便”背后必须有真实智慧支撑，否则只是“方便出下流”。</p><h4>关键概念</h4><ul><li><strong>方便与真实</strong>：方便是权宜之计，真实是佛陀所觉悟的境界，方便以导归真实为目的</li><li><strong>十度</strong>：六度之外再加方便、愿、力、智，方便是菩萨道重要的实践方法</li><li><strong>奴守门喻</strong>：门喻六根，驴喻无明，绳索喻贪爱与执着；守着门却丢光了财物</li><li><strong>穷子喻</strong>：长者喻佛陀，穷子喻凡夫，佛陀需自降身份、变换形象来教化</li><li><strong>方便出下流</strong>：“下流”非指品德败坏，而是没有智慧，方法只剩流俗的迎合</li></ul><h4>带走一句</h4><p>对什么人说什么话不是圆滑，是看清了对方的因缘——前提是自己没有迷失。</p><blockquote>原文：「所谓“方便”，其实就是“权宜之计”的意思，而“真实”就是指佛陀所觉悟的真实境界。」</blockquote>",
+      "source": "01-renshengjieyou/rs-32.md"
+    },
+    {
+      "id": "rs-33",
+      "collection": "book",
+      "origin": "book",
+      "title": "所见的世界，是心画出来的",
+      "theme": "慈悲与菩萨道",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心",
+        "关系"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "华藏世界",
+        "善财童子",
+        "五十三参",
+        "因陀罗网"
+      ],
+      "date": "2026-09",
+      "order": 33,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "第32讲 善财童子的奇迹之旅",
+      "kicker": "第32讲",
+      "body": "<h4>这一讲在讲什么</h4><p>这一讲收束“观众生”。佛菩萨能现出种种形象，<strong>并不是有一个实体化的佛菩萨在千变万化，而是因为相的如梦如幻、彼此含摄</strong>——如十面铜镜互照，影复现影，重重无尽，这就是“华藏世界”。善财童子五十三参，参访的有比丘、外道、居士，也有以酷烈刑罚示人的甘露火王，文殊菩萨特意嘱咐他“勿见过失”。判断一位善知识，看的不是形象，而是它能否把人的智慧导向觉悟。</p><h4>关键概念</h4><ul><li><strong>华藏世界</strong>：佛所感知的清净庄严世界，又称“因陀罗网境界”</li><li><strong>因陀罗网</strong>：如帝释天殿上的珠网，一珠现万像，影复现影，重重无尽</li><li><strong>五十三参</strong>：善财童子为学菩萨法门，参访五十三位身份各异的善知识</li><li><strong>善知识</strong>：能启发智慧、引人觉悟的人，未必慈眉善目，也可能示现忿怒</li><li><strong>若见诸相非相</strong>：相如梦如幻，不迷在相上，才能游戏人间、利益他人</li></ul><h4>带走一句</h4><p>看一个人值不值得跟，不看他慈眉善目，看他最终把你带向哪里。</p><blockquote>原文：「心如工画师，能画诸世间，五蕴悉从生，无法而不造。」</blockquote>",
+      "source": "01-renshengjieyou/rs-33.md"
+    },
+    {
+      "id": "rs-34",
+      "collection": "book",
+      "origin": "book",
+      "title": "愿力不是执着，是走长路的燃料",
+      "theme": "慈悲与菩萨道",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "发愿",
+        "菩提心",
+        "行愿",
+        "回向"
+      ],
+      "date": "2026-09",
+      "order": 34,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "第33讲 菩萨的目标（我愿无穷）",
+      "kicker": "第33讲",
+      "body": "<h4>这一讲在讲什么</h4><p>成庆从圣严法师的“虚空有尽，我愿无穷”说起。佛教的解脱不是逃进桃花源——若真是那样，悉达多觉悟后就不必赤足行脚、讲法度人了。<strong>菩萨的愿心，来自般若智慧打破了人我界限，从而生出与众生一体的感受</strong>。成佛之道路长且多岔路，所以要不断发愿，以“大勇心”支撑自己不退不还：这就是“上求佛道，下化众生”。龙树菩萨把面对无边众生仍发心度化的人称为“摩诃萨埵”，地藏菩萨“地狱不空，誓不成佛”的誓愿，就是这一精神最著名的例子。</p><h4>关键概念</h4><ul><li><strong>发菩提心</strong>：发起与佛一样圆满觉悟的心愿，即“上求佛道，下化众生”</li><li><strong>摩诃萨埵</strong>：大菩萨；龙树释为“心能为大事，不退不还，大勇心故”</li><li><strong>发愿与行愿</strong>：发愿是心念层面的动机，行愿是把动机落实为实践</li><li><strong>无相礼</strong>：以“空”的智慧礼敬佛菩萨，不落在对礼敬之相的执着上</li><li><strong>普皆回向</strong>：把修行所得功德无条件回馈众生，愿代众生受苦</li></ul><h4>带走一句</h4><p>愿是给走长路的人准备的东西——不抓住什么目标，只是让自己不肯停下。</p><blockquote>原文：「此人心能为大事，不退不还，大勇心故，名为摩诃萨埵。」</blockquote>",
+      "source": "01-renshengjieyou/rs-34.md"
+    },
+    {
+      "id": "rs-35",
+      "collection": "book",
+      "origin": "book",
+      "title": "怕死，是因为错认了一个“我”",
+      "theme": "生死与安顿",
+      "level": "极高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "死亡焦虑",
+        "无明",
+        "我执",
+        "事死如生"
+      ],
+      "date": "2026-09",
+      "order": 35,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "第34讲 死亡为何令人畏惧？",
+      "kicker": "第34讲",
+      "body": "<h4>这一讲在讲什么</h4><p>成庆从自己幼年病重却不怕死、十几岁才生出“生命有限”的缺憾感说起。传统中国人靠宗族与香火，把个体的死转化为共同体的生，所以较少个体性的死亡焦虑；今天家族松散、人际碎片化，人又被抛回独自面对死亡的位置，只能靠消费和欲望把焦虑转移开。<strong>一旦把“存在”认定为绝对的“我”，就必然撞上“我终将消亡”的悖论</strong>。佛学的思路是回到起点追问：人到底在恐惧什么？“我”究竟是什么？</p><blockquote>同一主题另见《安心之道》第十章「生死与涅槃」。</blockquote><h4>关键概念</h4><ul><li><strong>死亡焦虑</strong>：即存在的焦虑，多在中年后因至亲去世或集体灾难而变得明确</li><li><strong>事死如生</strong>：以生想象死的墓葬观念，个体的死借家族转化为共同体的生</li><li><strong>自体爱</strong>：对“我”的强烈执取，推动人以夸张的方式维护“我”的永恒</li><li><strong>无明</strong>：错把“存在”认定为绝对的“我”，由此生出的根本认知错谬</li><li><strong>娱乐至死</strong>：以感官欲望的满足转移深层的存在焦虑，反而更怕死</li></ul><h4>带走一句</h4><p>把死亡当成终点来怕，是因为先默认了一个会消失的“我”。</p><blockquote>原文：「要真正解决“死亡恐惧”的问题，就需要回到恐惧发生的起点：我在恐惧什么？我为何恐惧？」</blockquote>",
+      "source": "01-renshengjieyou/rs-35.md"
+    },
+    {
+      "id": "rs-36",
+      "collection": "book",
+      "origin": "book",
+      "title": "轮回不是灵魂搬家，是相续而不同",
+      "theme": "生死与安顿",
+      "level": "一般",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "轮回",
+        "相续",
+        "十二因缘",
+        "六道"
+      ],
+      "date": "2026-09",
+      "order": 36,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "第35讲 生命的轮回与困境",
+      "kicker": "第35讲",
+      "body": "<h4>这一讲在讲什么</h4><p>葬礼会教人怎样理解死亡——土家族的“撒尔嗬”鼓盆而歌，城市里的“一条龙”却只剩下消费。这一讲梳理机械论、二元论、怀疑论三种生命观，并借濒死体验研究说明：不要把生命武断地等同于可见的肉体。佛教的看法是，<strong>生不是无中生有，灭也不是灰飞烟灭，而是随业力相续流转</strong>。轮回的关键不是有一个恒常的灵魂在搬家，而是生命“相续而不同”，且无法自主——这才是苦。</p><blockquote>同一主题另见《安心之道》第十章「生死与涅槃」。</blockquote><h4>关键概念</h4><ul><li><strong>轮回</strong>：依善恶业力不断流转的生命，其实质是生命无法自我主宰</li><li><strong>相续而不同</strong>：下一生与前一生既不完全相同，也不是毫无联系</li><li><strong>十二因缘</strong>：因“无明”而造作贪嗔痴，生命被动流转的内在逻辑</li><li><strong>三界六道</strong>：欲界、色界、无色界与六种生命形态，构成佛教的时空观</li><li><strong>一水四见</strong>：同一水，饿鬼见脓血、鱼视如家、天人见琉璃、人见江河</li></ul><h4>带走一句</h4><p>轮回的可怕不在死后去哪里，而在活着的时候做不了自己的主。</p><blockquote>原文：「生命轮回不息，但每一刻其实都“相续而不同”。」</blockquote>",
+      "source": "01-renshengjieyou/rs-36.md"
+    },
+    {
+      "id": "rs-37",
+      "collection": "book",
+      "origin": "book",
+      "title": "涅槃不是死亡，是看清生灭",
+      "theme": "生死与安顿",
+      "level": "一般",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "涅槃",
+        "无常",
+        "解脱道",
+        "以戒为师"
+      ],
+      "date": "2026-09",
+      "order": 37,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "第36讲 佛陀的生死与涅槃",
+      "kicker": "第36讲",
+      "body": "<h4>这一讲在讲什么</h4><p>佛陀怎样面对自己的死？这一讲先讲解脱道的果位与涅槃：阿罗汉“不更受有”，不再以三界的形态流转，这与菩萨道认为“六道即是净土”不同。再讲他临终的现场：母亲摩耶夫人在忉利天听法而证初果，父亲净饭王临终受无常之教，佛陀自己中毒、拖着病躯走到娑罗双树间，最后一刻仍在为人说法。<strong>他留下的最后法偈是“诸行无常，是生灭法。生灭灭已，寂灭为乐”。</strong></p><blockquote>同一主题另见《安心之道》第十章「生死与涅槃」。</blockquote><h4>关键概念</h4><ul><li><strong>解脱道</strong>：以求尽快脱离生死轮回、证得涅槃为目标的修行路径</li><li><strong>不更受有</strong>：阿罗汉不再以“三界存在”的形态继续流转生死</li><li><strong>五不还天</strong>：三果以上圣者所在之处，永远不会再退回欲界</li><li><strong>以戒为师</strong>：佛陀对僧团的最后教导，以戒律作为僧团共处的规则</li><li><strong>寂灭为乐</strong>：生与死只是缘起缘灭的幻觉，并没有实体在生生死死</li></ul><h4>带走一句</h4><p>把生死看成一朵花的开落，而不是一个人的失去，恐惧就松了。</p><blockquote>原文：「诸行无常，是生灭法。生灭灭已，寂灭为乐。」</blockquote>",
+      "source": "01-renshengjieyou/rs-37.md"
+    },
+    {
+      "id": "rs-38",
+      "collection": "book",
+      "origin": "book",
+      "title": "净土不是死后才有",
+      "theme": "生死与安顿",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "净土",
+        "万法唯识",
+        "心净",
+        "往生"
+      ],
+      "date": "2026-09",
+      "order": 38,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "第37讲 如何理解净土世界？",
+      "kicker": "第37讲",
+      "body": "<h4>这一讲在讲什么</h4><p>如果净土只是“心诚口念就能往生”，那佛教的智慧就被架空成“因信称义”了。成庆指出，《维摩诘经》的说法是“随其心净，则佛土净”——<strong>同处一个环境，智慧不同，所体验到的境界也不同</strong>，这就是“万法唯识”。心净不是情绪好，而是觉悟到超越二元对立的“空”。所以禅宗的“明心见性”与净土宗的“信愿行”并非两回事，只是随众生根机的差异而各有侧重。</p><blockquote>同一主题另见《安心之道》第十章「生死与涅槃」。</blockquote><h4>关键概念</h4><ul><li><strong>万法唯识</strong>：所见境界随认知而显现，认知不同，所看到的世界众相也不同</li><li><strong>一水四见</strong>：同一水，饿鬼见脓血、鱼视如家、天人见琉璃、人见江河</li><li><strong>心净则佛土净</strong>：《维摩诘经》所说，随其心净，则佛土净</li><li><strong>理事不二</strong>：万法皆空（理）与净土时时如幻现前（事）并不矛盾</li><li><strong>净土三经</strong>：《阿弥陀经》《无量寿经》《观无量寿经》，讲述弥陀净土</li></ul><h4>带走一句</h4><p>不是先有净土才能安心，而是心先净了，所在之处现出净土。</p><blockquote>原文：「若菩萨欲得净土，当净其心；随其心净，则佛土净。」</blockquote>",
+      "source": "01-renshengjieyou/rs-38.md"
+    },
+    {
+      "id": "rs-39",
+      "collection": "book",
+      "origin": "book",
+      "title": "把死亡当作一生修行的期末答卷",
+      "theme": "生死与安顿",
+      "level": "一般",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "顺手"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "信解行证",
+        "预知时至",
+        "遗偈",
+        "禅净之别"
+      ],
+      "date": "2026-09",
+      "order": 39,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "第38讲 超越生死的修行者",
+      "kicker": "第38讲",
+      "body": "<h4>这一讲在讲什么</h4><p>修行真的能让人超越老、病、死吗？成庆把这个问题交给历史上两类人的临终来回答。 禅宗一路看觉悟。禅僧用全部生命去检验佛陀所讲的觉悟是否真实，很多人能“预知时至”，提前告知自己圆寂的日子，当日或合掌端坐，或无疾而终，还留下遗偈，作为对弟子的最后教导，也是一生修持的总结。 净土宗一路看信心。修行者觉得开悟太难，便以至诚的信愿求生净土，临终记载里因此多出现往生的种种瑞相，风格平实朴素。 <strong>两类记载不同，却都把死亡当作一生修行的期末答卷。</strong> 成庆还点出一件事：动物临终也会离群独处，预见生死或许是生命本来就有的本能，禅修只是恢复了这种被文明遮蔽的直觉。</p><blockquote>同一主题另见《安心之道》第十章「生死与涅槃」。</blockquote><h4>关键概念</h4><ul><li><strong>信、解、行、证</strong>：信心、理解、修行落实与亲身证得四步，自己证到才能消除疑惑</li><li><strong>预知时至</strong>：禅僧提前预告自己圆寂的日子，从容作别，是佛教对这类记载的常见说法</li><li><strong>遗偈</strong>：禅师临终留下的偈语，既是对弟子的最后教导，也是一生修持的总结</li><li><strong>禅净之别</strong>：禅宗重明心见性的觉悟，洒脱自在；净土宗重至诚信愿求生净土，平实朴素</li><li><strong>法法平等</strong>：以空性看一切法平等；南泉禅师说来生作山下水牯牛，正是提醒勿执净秽之别</li></ul><h4>带走一句</h4><p>死亡不是修行的意外中断，而是它最后一道考题——考的是这一生到底信了什么、证到了什么。</p><blockquote>原文：「兀兀不修善，腾腾不造恶，寂寂断见闻，荡荡心无著。」</blockquote>",
+      "source": "01-renshengjieyou/rs-39.md"
+    },
+    {
+      "id": "rs-40",
+      "collection": "book",
+      "origin": "book",
+      "title": "无常不能只在理智上理解",
+      "theme": "生死与安顿",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "助念",
+        "无常",
+        "我执",
+        "死亡教育"
+      ],
+      "date": "2026-09",
+      "order": 40,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "第39讲 最后一堂生死课",
+      "kicker": "第39讲",
+      "body": "<h4>这一讲在讲什么</h4><p>这一讲是成庆自己的生死经验。2017年岳父突发脑出血进ICU，每天费用有一半不在医保范围内，未来还可能长期洗肾、需要照护。他第一次意识到，一个人的生命滑落如此之快，自己设想的“理想生活”迅速消逝。 <strong>转折发生在一个早晨：他忽然完全接受了未来的所有不确定性，那份深藏的“不愿意”消失了，像河道里堵塞的石头被疏通。</strong> 岳父去世后，他与几位持戒的出家人一起，在医院走廊为亡者助念七个多小时。佛教认为死亡是一个过程，医学死亡之后亡者仍可能听到生者的声音，念佛声能帮他不陷恐慌。 无常我们往往只在理智上理解，很难无条件接纳，真遇到时才会心不甘情不愿；只接受符合自己偏好的、排斥不喜欢的，就是我执。他后来用一句练了多年的方法送别岳父与父亲：“面对它，接受它，处理它，放下它。”</p><blockquote>同一主题另见《安心之道》第十章「生死与涅槃」。</blockquote><h4>关键概念</h4><ul><li><strong>助念</strong>：医学死亡后亡者仍能听到声音，念佛声可助他不陷恐慌</li><li><strong>接纳无常</strong>：理智上理解无常不难，无条件接纳才难；真接纳时长期照护不再是“干扰”</li><li><strong>我执</strong>：人生悲欢离合，只接受符合自己偏好的部分，排斥不喜欢的部分</li><li><strong>面对它，接受它，处理它，放下它</strong>：成庆处理亲人后事的方法，只关注当下要处理的问题本身</li><li><strong>死亡教育</strong>：传统社群瓦解、仪式被遗忘，现代人只能独自面对“死亡之重”</li></ul><h4>带走一句</h4><p>真正的准备不是想通“人都会死”，而是无常落到头上时，心里那块不肯松动的石头被疏通。</p><blockquote>原文：「对于“无常”，我们常常只是理智上能够理解，但很难真正无条件地去接纳」</blockquote>",
+      "source": "01-renshengjieyou/rs-40.md"
+    },
+    {
+      "id": "rs-41",
+      "collection": "book",
+      "origin": "book",
+      "title": "佛学不落回生活，就只剩知识表演",
+      "theme": "佛学入门",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "依法不依人",
+        "正思惟",
+        "精神消费主义",
+        "应无所住"
+      ],
+      "date": "2026-09",
+      "order": 41,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "第40讲 融入生命的佛学",
+      "kicker": "第40讲",
+      "body": "<h4>这一讲在讲什么</h4><p>这是全书的最后一讲，成庆没有再添新概念，而是交代自己为什么这样讲佛学。 他的学佛起点很个人：古典音乐带来的神秘体验，让他怀疑单纯理性认知的局限；后来在轻度抑郁中接触上座部佛教与禅修，才发现佛教讲的意识体验各有其逻辑。坐禅之后再读《金刚经》，过去字字认识却把握不住核心主旨的经文忽然读得懂了。所以他刻意从生命内部讲，而不是用现代学术的旁观视角——那种视角预先怀疑佛教心灵解放的功能，容易让佛学只剩知识表演。 他借东初老人写给圣严法师的告诫提醒：<strong>当作大宗教家，勿作宗教学者。</strong> 最后是点破“精神消费主义”：修行一旦成了心灵疗愈的IP，想靠依附某个人或某个团体获得圆满，就已背离初衷。佛陀反复教的是依法不依人、正思惟，心灵的自由不是他施舍给众生的。</p><h4>关键概念</h4><ul><li><strong>从生命内部理解</strong>：佛陀的觉悟是心性的直接体证，不是概念名相的无穷论证，须从内部了解</li><li><strong>当作大宗教家，勿作宗教学者</strong>：东初老人对圣严法师的告诫：研究宗教别丢掉安顿生命、承担苦难的初衷</li><li><strong>依法不依人</strong>：依止于“法”而非“人”；外在现象缘起无实，无法成为真正的依靠</li><li><strong>精神消费主义</strong>：修行被做成IP与灵修课程，以精神依附换取利益，反而掉进另一种迷思</li><li><strong>正思惟</strong>：由自己思择判断，而非盲目跟随某个人或团体</li></ul><h4>带走一句</h4><p>真正能安顿你的不是某个老师或某门课程，而是你自己跳出了自我遮蔽的心灵迷雾。</p><blockquote>原文：「佛陀并不认为这种自由是由他施舍给众生的，而只是众生自己跳出了自我遮蔽的心灵迷雾而已。」</blockquote>",
+      "source": "01-renshengjieyou/rs-41.md"
+    },
+    {
+      "id": "rs-42",
+      "collection": "book",
+      "origin": "book",
+      "title": "去寺庙烧香，照见的是时代精神状况",
+      "theme": "成庆访谈",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "个体化",
+        "神圣空间",
+        "着相",
+        "方便"
+      ],
+      "date": "2026-09",
+      "order": 42,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "成庆×梁文道：如何安顿个体化的生命？",
+      "kicker": "访谈",
+      "body": "<h4>这篇访谈在讲什么</h4><p>梁文道的疑问很直接：年轻人涌进寺庙烧香，是不是把佛教当成了求神问卜的民间信仰？成庆把问题翻转过来——烧香的人未必懂佛教，但他们的举动照见的是时代的精神状况。七〇后的人生意义寄托在家国与社会，如今年轻人更个体化，家庭、社区、土地庙这些心灵安顿资源却几乎断绝，建制化的寺庙就成了一个现成接口。</p><p>他因此分两层看：表层是符号泛滥（观音求子求财、香越烧越大），深层是<strong>佛教被窄化</strong>——它本为解决人生之苦，如今反成了增长欲望的工具。真正的入口是理性的哲理核心：佛陀不是造物主，而是像《悉达多》那样饱尝人生之苦的觉悟者，从四圣谛、十二因缘进去，就不易被符号迷惑。</p><h4>关键概念</h4><ul><li><strong>个体化的一代</strong>：年轻人只关注个体生命意义，对家国、社会议题兴趣递减，却没人教他们如何安顿</li><li><strong>神圣空间的消失</strong>：土地庙、关帝庙等日常信仰空间消亡，信仰需求被挤进大寺庙，承载了无法承担的功能</li><li><strong>符号与&quot;着相&quot;</strong>：《金刚经》讲&quot;若见诸相非相，即见如来&quot;，问题不在佛像，在人是否&quot;着相&quot;</li><li><strong>&quot;方便&quot;的界限</strong>：烧香祈福本身无妨，但&quot;方便出下流&quot;，佛教只剩提供安慰这一个功能就被窄化</li></ul><h4>带走一句</h4><p>寺庙挤满年轻人，不是信仰复兴，而是心灵资源断供后，就近找了个现成接口。</p><blockquote>原文：「宗教问题永远不只是宗教问题，它一定还是一个时代的思想观念和精神生活的显现。」</blockquote>",
+      "source": "01-renshengjieyou/rs-42.md"
+    },
+    {
+      "id": "rs-43",
+      "collection": "book",
+      "origin": "book",
+      "title": "放下执着不是撒手不管，是不被结果绑住",
+      "theme": "成庆访谈",
+      "level": "极高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "执着",
+        "随缘",
+        "降服烦恼",
+        "我执"
+      ],
+      "date": "2026-09",
+      "order": 43,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "成庆×看理想：我们去寺庙问了问，什么叫“放下执着”？",
+      "kicker": "访谈",
+      "body": "<h4>这篇访谈在讲什么</h4><p>颠颠提出一个真实的困惑：当年靠&quot;执着&quot;考上大学，没有这份执着可能就考不上；可一旦&quot;放下执着&quot;，人生又变得虚无、失去动力——那到底该不该执着？成庆绕开了这个二选一。<strong>他给&quot;执着&quot;下了个可操作的定义：对一件事的结果产生&quot;非它不可&quot;的念头。</strong> 录播客若以 KPI 为导向就是执着；全程认真投入、结果随因缘自然成就，就不是。</p><p>他指出&quot;放下&quot;不是佛经里的词，而是汉传佛教文化衍生出来的，容易被误解成&quot;举起一个东西又放下&quot;。达摩对心不安的慧可说&quot;将心来，与汝安&quot;，最后是慧可自己发现&quot;觅心不可得&quot;——不安和压力本是自己造作、自己裹上身的。所以不执着的正面样子不是摆烂，而是身累心不累，在每件事上仍有热情与温暖。</p><h4>关键概念</h4><ul><li><strong>执着</strong>：对一件事的结果产生&quot;非它不可&quot;的思维，也可从你对结果的情绪反应来反查</li><li><strong>随缘</strong>：不是消极等待，当下因缘要慢慢凑集，你要努力，条件合和才形成结果，结果不由你掌控</li><li><strong>&quot;放下&quot;的误读</strong>：不是撒手不管，而是看清标准是你自己绑上去的，那个烦恼本来就不存在</li><li><strong>身累心不累</strong>：不执着的人身体虽辛苦，心仍然是轻松的，因而还能利益他人</li></ul><h4>带走一句</h4><p>不是把什么东西放下来，而是看清那根绳子一直握在自己手里。</p><blockquote>原文：「禅宗里有很多的公案问：我要解脱，我要自由，怎么办？禅师就说：谁把你绑住了？」</blockquote>",
+      "source": "01-renshengjieyou/rs-43.md"
+    },
+    {
+      "id": "rs-44",
+      "collection": "book",
+      "origin": "book",
+      "title": "佛像只是符号，改变认知才是佛学",
+      "theme": "成庆访谈",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "符号",
+        "不二",
+        "缘起",
+        "自性圆满"
+      ],
+      "date": "2026-09",
+      "order": 44,
+      "book": "人生解忧：佛学入门四十讲",
+      "bookShort": "人生解忧",
+      "author": "成庆",
+      "chapter": "成庆×看理想：佛教是一种符号吗？",
+      "kicker": "访谈",
+      "body": "<h4>这篇访谈在讲什么</h4><p>看理想的编辑被佛像、石窟的美打动，深入佛学后却发现这些只是外在的&quot;相&quot;，与真正的佛学关系不大，于是困惑求解。成庆说这种感受很普遍——我们日常接触到的多是佛教符号，而不是能解决人生问题的佛教。佛教能延续一两千年，一是形成了文化土壤，二是核心思想始终紧扣人生问题：人生本质是苦，解法在认识到&quot;万法皆空&quot;，或更易懂的&quot;不二&quot;。</p><p>他把矛头指向认知：我们习惯以&quot;我&quot;为中心、用二元论看世界，佛教却认为这个主体建构是虚假的、是意识的骗局。所以&quot;懂得很多道理，却过不好这一生&quot;——因为看了很多，认知却没改变。<strong>真正的圆满不是外在的圆满，而是自性的圆满。</strong> 石窟寺庙的美可以欣赏，但不必赋予过多神圣意味：&quot;心净则佛土净&quot;，认知一转，哪里都是净土；挑水担柴、一餐一饭也都是佛法。</p><h4>关键概念</h4><ul><li><strong>佛教符号</strong>：佛像、石窟、名词是外在的&quot;相&quot;，不等于能解决人生问题的佛教本身</li><li><strong>不二（非二元论）</strong>：以&quot;我&quot;为中心的二元视角建立在一个虚假主体上，是意识的骗局</li><li><strong>自性的圆满</strong>：圆满不在外面，认知转过来之后，日常一餐一饭都能代表佛教</li><li><strong>负反馈</strong>：善意未必换回善意，那是自我建构太强、期待他人反应，不要被外界评判绑住</li></ul><h4>带走一句</h4><p>佛像、石窟、圣地都只是相，能动的只有你自己那一套认知。</p><blockquote>原文：「为什么我们常常知道很多，却没办法活得更好？就是因为我们没有把自己所看到的一切有关文化的内容融入生命中，去改变自我的认知。」</blockquote>",
+      "source": "01-renshengjieyou/rs-44.md"
+    },
+    {
+      "id": "ax-01",
+      "collection": "book",
+      "origin": "book",
+      "title": "烧香祈福与“佛系”，都不是佛教",
+      "theme": "佛学入门",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "佛系",
+        "祈福",
+        "出世入世",
+        "依法不依人"
+      ],
+      "date": "2026-09",
+      "order": 45,
+      "book": "安心之道：佛学通识十讲",
+      "bookShort": "安心之道",
+      "author": "成庆",
+      "chapter": "第一章 被误解的佛教",
+      "kicker": "第一章",
+      "body": "<h4>这一章在讲什么</h4><p>“佛系”一词来自日韩流行文化，意为“什么都行、不必强求”，它与作为宗教的佛教并无直接关系。 成庆却从这个流行词里看出，当代社会对佛教有两种固化的印象：一是<strong>祈福玄学化</strong>，把佛菩萨当成可以求福消灾的神灵； 二是<strong>心灵鸡汤化</strong>，把佛教简化成几句似是而非的“禅语”。他指出佛教并不是有神论，佛陀是一位觉悟者， 不是造物主——他更像行走人间的“师者”，度化众生也要依赖因缘。 佛教历史上也并不避世：僧团自古毗邻城镇托钵，隋唐寺庙多在市集，还办悲田院、盂兰盆会；大乘的菩萨道更强调积极入世、利益众生。 所以本书不写给“佛系”作注脚，而是借当代人的生命经验，把佛学真正的核心思想重新激活。</p><h4>关键概念</h4><ul><li><strong>佛系</strong>：源自日韩流行文化的流行词，意为“什么都行、不必强求”，与作为宗教的佛教并无直接关联</li><li><strong>祈福玄学化</strong>：把佛菩萨当作可求福消灾的神灵，是大众对佛教最普遍的一种误解</li><li><strong>依法不依人</strong>：佛教强调智慧的作用，依佛陀所觉悟的“法”，与偶像崇拜划清界限</li><li><strong>佛陀是觉悟者</strong>：非全能的造物主，虽有圆满智慧，却无法凭一己私意强行达到目的</li><li><strong>菩萨道</strong>：大乘佛教积极面对人群、利益社会的救度精神，与“出世避世”的想象相反</li></ul><h4>带走一句</h4><p>佛教不是让人逃离现实，而是教人看清现实，并在人群中修行。</p><blockquote>原文：「佛教并不必然倡导离群索居，虽然佛教也有某种意义上的隐修，但总体而言，佛教的修行一直是与社会、人群相融合的」</blockquote>",
+      "source": "02-anxinzhidao/ax-01.md"
+    },
+    {
+      "id": "ax-02",
+      "collection": "book",
+      "origin": "book",
+      "title": "苦不在外境，在错误的执着",
+      "theme": "苦与烦恼",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "四圣谛",
+        "八苦",
+        "出离心",
+        "执着"
+      ],
+      "date": "2026-09",
+      "order": 46,
+      "book": "安心之道：佛学通识十讲",
+      "bookShort": "安心之道",
+      "author": "成庆",
+      "chapter": "第二章 悉达多的苦与自由",
+      "kicker": "第二章",
+      "body": "<h4>这一章在讲什么</h4><p>这一章从古印度的精神世界讲起：婆罗门的祭祀、《奥义书》的“梵我”与业力轮回、自由沙门的苦修，佛陀正是这场思想革命中的一员。 但佛陀不是神灵，而是公元前5世纪真实存在的历史人物。悉达多贵为太子，婚姻、事业都顺遂，却仍因看见老、病、死与众生之苦而出家—— 他的出家不是因为世俗的不幸，而是感到生命有一种<strong>绝对的不自由</strong>。 佛教由此谈“八苦”“三苦”，最终落到四圣谛：苦谛是现实，集谛指出根源。让人意外的是，苦的原因并不在对象本身， 而在我们关于好坏的判断与随之而来的<strong>执着</strong>——“爱与欲相染”，所以快乐也总是不稳定、转瞬即逝。</p><blockquote>同一主题另见《人生解忧：佛学入门四十讲》第 2–4 讲「悉达多，你为何出家？」「悉达多，你觉悟到什么？」「为何“生”也是人间之苦？」。</blockquote><h4>关键概念</h4><ul><li><strong>出离心</strong>：不因贫富而定，指对世俗价值观的普遍怀疑，而要去追求生命的终极真相</li><li><strong>四圣谛</strong>：苦、集、灭、道——人生皆苦的现实、苦的成因、灭苦后的觉醒、超越苦的方法</li><li><strong>八苦</strong>：生、老、病、死，加忧悲恼、怨憎会、爱别离、求不得</li><li><strong>三苦</strong>：苦苦、坏苦、行苦（无常变动带来的不安）</li><li><strong>五蕴炽盛苦</strong>：色受想行识和合的身心随境界波动，动荡不安</li></ul><h4>带走一句</h4><p>快乐不是被夺走的，它本来就不稳定；看清这一点，才有力量停止追逐。</p><blockquote>原文：「佛教据此认为，“苦”的真实原因不在对象本身，而是我们的错误执着。」</blockquote>",
+      "source": "02-anxinzhidao/ax-02.md"
+    },
+    {
+      "id": "ax-03",
+      "collection": "book",
+      "origin": "book",
+      "title": "没有孤岛，只有看不见的因缘之网",
+      "theme": "缘起与业力",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "缘起",
+        "因缘",
+        "性空",
+        "孤独感"
+      ],
+      "date": "2026-09",
+      "order": 47,
+      "book": "安心之道：佛学通识十讲",
+      "bookShort": "安心之道",
+      "author": "成庆",
+      "chapter": "第三章 “缘起”的世界",
+      "kicker": "第三章",
+      "body": "<h4>这一章在讲什么</h4><p>“缘分”这个词，其实来自佛教的“因缘”或“缘起”——任何事物的出现或毁坏都有它的条件，依条件而生，也因条件而消亡。 成庆用黑板擦、手机、米饭层层追溯：万物都不是自足自立的，而是无数条件的组合，所以没有不变的本质，这就是<strong>缘起性空</strong>。 人与人之间的聚散、亲疏、一见钟情或格格不入，看似偶然，其实也依着“看不见的因果律的手”，《返老还童》里那场车祸便是例证。 由此再谈现代人的孤独：人本就与科技、自然、社群、家庭连在一张因缘的大网里，一旦切断某些连接，就会感到孤独与失落， “没有人是一座孤岛”说的正是这个道理。</p><blockquote>同一主题另见《人生解忧：佛学入门四十讲》第 15、17 讲「十年修得同船渡」「没有人是一座孤岛」。</blockquote><h4>关键概念</h4><ul><li><strong>缘起</strong>：也称因缘，任何事物的出现或毁坏都有其条件，依条件而生、因条件而灭</li><li><strong>缘起性空</strong>：任何依靠条件而成立的事物自然没有本质，重点在条件的组合变化</li><li><strong>此有故彼有</strong>：缘起的经典定义，万物彼此依存、互为条件</li><li><strong>因缘之网</strong>：人与世界的连接真实存在，忽略某些层面的连接就会带来孤独等心理问题</li><li><strong>孤独感</strong>：一种自身与有意义的他者相隔离的分离感，属于认知层面的疏离</li></ul><h4>带走一句</h4><p>你以为的偶然相遇，是看不见的因缘在起作用；你感到孤独，是因为忘了自己本就系在这张网上。</p><blockquote>原文：「佛教所说的“因缘”，也称为“缘起”，意思是指：任何事物的出现或毁坏，都有其条件。」</blockquote>",
+      "source": "02-anxinzhidao/ax-03.md"
+    },
+    {
+      "id": "ax-04",
+      "collection": "book",
+      "origin": "book",
+      "title": "我们以为自由，其实被业力推着走",
+      "theme": "缘起与业力",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "业力",
+        "十二因缘",
+        "轮回",
+        "无明"
+      ],
+      "date": "2026-09",
+      "order": 48,
+      "book": "安心之道：佛学通识十讲",
+      "bookShort": "安心之道",
+      "author": "成庆",
+      "chapter": "第四章 生命流转的秘密",
+      "kicker": "第四章",
+      "body": "<h4>这一章在讲什么</h4><p>本章接着缘起往下讲“流转”的动力。佛教用一个词概括：<strong>业</strong>——人的行为、语言和心理活动都会留下印迹与惯性，推动未来的生命结果， 这就是“业力”，也是《起风了》里那阵吹动人事聚散的“风”。我们常觉得自己有自由意志，其实多数时候只是被过去的因缘推着走。 更细的说明是“<strong>十二因缘</strong>”：从“无明”出发，经行、识、名色、六处、触、受、爱、取、有，直到生与老死愁叹苦忧恼， 环环相扣，说明我们为何会一再陷入同样的处境，这就是“轮回”。要从中出来，得反过来观察自己在每一种外境前生起的爱染心。</p><blockquote>同一主题另见《人生解忧：佛学入门四十讲》第 16、35 讲「谁曾见过风？」「生命的轮回与困境」。</blockquote><h4>关键概念</h4><ul><li><strong>业力</strong>：行为、语言、心理活动留下的印迹与惯性，会影响未来的生命结果</li><li><strong>身语意三业</strong>：业依造作形式分为行为、语言、动机三个层面，起心动念也在造业</li><li><strong>十二因缘</strong>：无明、行、识、名色、六处、触、受、爱、取、有、生、老死，说明“迷”与轮回</li><li><strong>轮回</strong>：因对生命存在巨大的无知，一次次陷入同样的处境，因此感到强烈的不自由</li><li><strong>无明</strong>：看不到世界的真相，由此生起无尽贪嗔痴，是生命流转的根本</li></ul><h4>带走一句</h4><p>顺着“爱—取—有”的链条往回看，困住你的往往不是命运，而是那颗不肯放下的爱染心。</p><blockquote>原文：「佛教的“业”，浅显一点来说，就是指人的行为、语言和心理活动会留下生命的印迹和惯性，从而影响未来的生命结果。」</blockquote>",
+      "source": "02-anxinzhidao/ax-04.md"
+    },
+    {
+      "id": "ax-05",
+      "collection": "book",
+      "origin": "book",
+      "title": "你说的“真实”，可能只是感官的编码",
+      "theme": "空与般若",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "如梦如幻",
+        "六根",
+        "出离心",
+        "迷与觉"
+      ],
+      "date": "2026-09",
+      "order": 49,
+      "book": "安心之道：佛学通识十讲",
+      "bookShort": "安心之道",
+      "author": "成庆",
+      "chapter": "第五章 世界是“真实”的吗？",
+      "kicker": "第五章",
+      "body": "<h4>这一章在讲什么</h4><p>这一章借《黑客帝国》《盗梦空间》《红辣椒》来追问：“什么才是真实？”感官经验既然可以被电子讯号模拟，就不再绝对可靠； 普特南的“缸中之脑”更尖锐地指出，我们其实无法确认当下是否为唯一真实。佛教不从形而上争辩，而从<strong>迷与觉</strong>入手—— 《金刚经》说“一切有为法，如梦幻泡影”，不是否定人生，而是说人生并不像我们想象的那般恒常稳固。 人又是怎么认识世界的？靠眼、耳、鼻、舌、身、意这“六根”，其中最关键的其实是<strong>意根</strong>（意识）——它把感官信息概念化并判断好坏。 所以仅凭理性怀疑感官还不够，佛教主张以身心为工具亲自验证，这才是“出离心”与真正觉醒的开端。</p><blockquote>同一主题另见《人生解忧：佛学入门四十讲》第 18 讲「红辣椒、尼奥与盗梦空间」。</blockquote><h4>关键概念</h4><ul><li><strong>如梦如幻</strong>：有为法如梦幻泡影、如露亦如电，指人生并不如我们想象的那样恒常稳固</li><li><strong>缸中之脑</strong>：普特南的哲学假设——被接入计算机的脑无法确认自己是否身处真实世界</li><li><strong>六根</strong>：眼、耳、鼻、舌、身、意，前五根接收感官信息，意根负责概念化与判断</li><li><strong>迷与觉</strong>：以“梦”喻“迷”、以“醒”喻“觉”，佛教关切的是生命解脱而非单纯的形而上思辨</li><li><strong>出离心</strong>：对当下生命状态的质疑，是想要“出走”、开始反观欲望本身的开端</li></ul><h4>带走一句</h4><p>光靠理性怀疑感官没用，你得在身心上亲自验证——那时才算真的从梦里醒来。</p><blockquote>原文：「佛教谈“人生如梦”，并非是消极地否定人生意义，而是从客观的角度讲，人生不是我们想象的那样恒常稳固。」</blockquote>",
+      "source": "02-anxinzhidao/ax-05.md"
+    },
+    {
+      "id": "ax-06",
+      "collection": "book",
+      "origin": "book",
+      "title": "「空」不是虚无，是没有本质",
+      "theme": "空与般若",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "空",
+        "无本质",
+        "自性见",
+        "八不",
+        "不二"
+      ],
+      "date": "2026-09",
+      "order": 50,
+      "book": "安心之道：佛学通识十讲",
+      "bookShort": "安心之道",
+      "author": "成庆",
+      "chapter": "第六章 “不二”与“空”",
+      "kicker": "第六章",
+      "body": "<h4>这一章在讲什么</h4><p>一听“四大皆空”就理解成人生虚无，这正是本章要拆掉的误会： <strong>“空”不是没有，而是一切事物都没有不变的本质。</strong> 这个观念东汉传入后，华夏文化花了约五百年才真正读懂；鸠摩罗什译出“色即是空”， 才跳出“有”与“无”的二元框架。 为什么说无本质？落叶、颜色、咖啡厅，层层拆下去都找不到 那不依赖条件、独一而永存的本体——佛教称这种错觉为“自性见”。 龙树菩萨的《中论》用“八不”来论证：不生亦不灭、不常亦不断、不一亦不异、不来亦不出。 《金刚经》则把“空”落到人身上——“无我相、无人相、无众生相、无寿者相”： 之所以敢度尽一切众生而不生烦恼，正因为没有那个需要死死护住的“我”。</p><blockquote>同一主题另见《人生解忧：佛学入门四十讲》第 18、21、22 讲「红辣椒、尼奥与盗梦空间」「无自性：如何正确理解“空”？」「八不偈：抽掉二元论的跷跷板」。</blockquote><h4>关键概念</h4><ul><li><strong>空（无本质）</strong>：不是不存在，而是一切事物都不具备不依赖条件、独一而永存的本质</li><li><strong>自性见</strong>：近乎本能地把世界与自我看成有某种不变本质，是遮蔽真理的关键障碍</li><li><strong>析空与体空</strong>：析空靠层层拆解找不到本体；体空直接从相待性入手，如道家“有无相生”</li><li><strong>八不</strong>：《中论》的论证，不生亦不灭、不常亦不断、不一亦不异、不来亦不出</li><li><strong>无我相</strong>：此处“无”指没有本质而非不存在，即没有一个不变而实有的“我”</li></ul><h4>带走一句</h4><p>把“空”读成虚无只是止痛药；看清“没有本质”，才真正松开执着。</p><blockquote>原文：「凡所有相，皆是虚妄。若见诸相非相，即见如来。」</blockquote>",
+      "source": "02-anxinzhidao/ax-06.md"
+    },
+    {
+      "id": "ax-07",
+      "collection": "book",
+      "origin": "book",
+      "title": "放下不是放弃，是松开执着心",
+      "theme": "苦与烦恼",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "烦恼",
+        "执着",
+        "贪嗔痴",
+        "缘起",
+        "安心"
+      ],
+      "date": "2026-09",
+      "order": 51,
+      "book": "安心之道：佛学通识十讲",
+      "bookShort": "安心之道",
+      "author": "成庆",
+      "chapter": "第七章 安心之道",
+      "kicker": "第七章",
+      "body": "<h4>这一章在讲什么</h4><p>我们天天喊“烦”，却很少端详烦恼究竟长什么样。成庆把它分两层： 沮丧、焦虑、嫉妒这些情绪只是“烦恼的模样”， <strong>真正的烦恼是贪、嗔、痴、慢、疑、不正见这六种错误认知</strong>——它们不含道德评判，只是陈述事实。 所以解忧的关键不在改换外境，而在看清“执着”： 英文 attachment 很形象，就是心紧紧粘在所爱的对象上，反复纠缠、不肯松手。 短片《最后的编织》里，老妇人把头发也织进围巾，直到被拖下悬崖； 换成剪刀后，她很快又迷上剪指甲——心总要攀住点什么。 解法在禅宗：达摩让慧可“将心来”，慧可一反省才发现“觅心了不可得”。 不安并非环境绑住了你，而是你把缘起无常的一切，当成了可以牢牢抓住的东西。</p><blockquote>同一主题另见《人生解忧：佛学入门四十讲》第 7 讲「你为何如此执着？」。</blockquote><h4>关键概念</h4><ul><li><strong>烦恼的模样</strong>：沮丧、不安、无聊等负面情绪，只是烦恼的表面表现，还不是烦恼本身</li><li><strong>六种根本烦恼</strong>：贪、嗔、痴、慢、疑、不正见，是引发身心热恼不安的错误认知</li><li><strong>执着</strong>：心的黏性，紧粘所爱之人事物、念念不忘，英文 attachment 即“附着”</li><li><strong>放下</strong>：不是放弃努力，而是站到缘起的层面，看清结果由众多条件决定，弱化“我”的主宰欲</li><li><strong>将心来，与汝安</strong>：达摩要慧可把“心”拿出来，反观才知无心可得，不安由此而解</li></ul><h4>带走一句</h4><p>不是环境绑住了你，是你把“心”当成了实有的东西，才自己捆住自己。</p><blockquote>原文：「摩云：“将心来，与汝安。”祖云：“觅心了不可得。”摩云：“为汝安心竟。”」</blockquote>",
+      "source": "02-anxinzhidao/ax-07.md"
+    },
+    {
+      "id": "ax-08",
+      "collection": "book",
+      "origin": "book",
+      "title": "「我」不是主宰，是缘起的现象",
+      "theme": "无我与执",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "无我",
+        "自由意志",
+        "析空",
+        "缘起",
+        "不一不异"
+      ],
+      "date": "2026-09",
+      "order": 52,
+      "book": "安心之道：佛学通识十讲",
+      "bookShort": "安心之道",
+      "author": "成庆",
+      "chapter": "第八章 谁控制了“我”",
+      "kicker": "第八章",
+      "body": "<h4>这一章在讲什么</h4><p>《罗拉快跑》给出三种结局，现实里的人生却只有一个——于是人怀疑命运是否早已被决定。 宿命论与自由意志之争由此而来：脑科学家加扎尼加说，意识往往发生在行动之后， 它只是替无意识的行动“作解释”，下决定的“我”是根深蒂固的错觉；道金斯干脆把人看作“自私的基因”开动的机器。 佛教的答案在三法印里——<strong>“诸法无我”</strong>。 《那先比丘经》中，弥兰王拆遍头耳手脚都找不到“那先”，正如拆遍车轴车辐也找不到“车”，此法叫“析空”； 从时间上拆也一样：十五岁的你与四十岁的你，既相续又不同，像一条河流。 道理听懂还不够，佛陀要弟子反复观察五蕴身心，才可能真正削弱“我执”。</p><blockquote>同一主题另见《人生解忧：佛学入门四十讲》第 9、10 讲「“我”真的存在吗？」「从“无我”看“与自我和解”」。</blockquote><h4>关键概念</h4><ul><li><strong>宿命论（决定论）</strong>：条件满足则结果必发生，个人自由意志在其中无处立足</li><li><strong>自由意志的错觉</strong>：加扎尼加认为意识只是行动的“解释者”，“我”的叙事后发</li><li><strong>诸法无我</strong>：三法印之一，不承认“无我”基本就不能称为佛法</li><li><strong>析空</strong>：从时空层层拆解身心，找不到不变的“我”，那先比丘论“车”即此</li><li><strong>不一亦不异</strong>：过去的我与现在的我既相续又有差异，如河流，每一滴水都不是它又都构成它</li></ul><h4>带走一句</h4><p>你以为自己在主导，其实并没有一个“主”；看清这点，就不必为“我”死守。</p><blockquote>原文：「“我”其实就如同一条河流，看上去连续不断地变换，但是它仍然维持着一种让人可以识别的轮廓，它有自己流动的方向与形态。」</blockquote>",
+      "source": "02-anxinzhidao/ax-08.md"
+    },
+    {
+      "id": "ax-09",
+      "collection": "book",
+      "origin": "book",
+      "title": "心像肌肉，不练就会萎缩",
+      "theme": "禅修实修",
+      "level": "极高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "每天占用"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "禅修",
+        "数息",
+        "七支坐法",
+        "止观",
+        "随息"
+      ],
+      "date": "2026-09",
+      "order": 53,
+      "book": "安心之道：佛学通识十讲",
+      "bookShort": "安心之道",
+      "author": "成庆",
+      "chapter": "第九章 心的锻炼",
+      "kicker": "第九章",
+      "body": "<h4>这一章在讲什么</h4><p>这是全书唯一的实操章节。理由很朴素：<strong>心像肌肉，不锻炼就会萎缩，练了才更放松、更有力。</strong> 压抑情绪、靠购物刷剧排解，都只是暂时遮盖；禅修是坐下来观察起心动念，看清烦恼从何而来。 核心就两个字：止与观，天台宗又铺成“数、随、止、观、还、净”六妙门。 怎么坐？七支坐法：结跏趺坐（难则单盘、散盘），挺腰含胸，双肩平垂，手结定印， 下巴内收，舌抵上颚，眼睛微闭；盘腿后两膝着地，形成稳定三角形。 怎么用心？数息——先呼后吸算一个回合，心里默数，从一数到十再从头。 走神了不必懊恼，也不与妄念对抗，从容回到“一”重数； 数到呼吸细缓、数字多余，再自然转入随息，只觉察气息出入与长短冷暖涩滑。</p><blockquote>同一主题另见《人生解忧：佛学入门四十讲》第 12、13、14 讲「八正道与定的修行」「“四念处”的内涵与实践」「心的锻炼」。</blockquote><h4>关键概念</h4><ul><li><strong>止与观</strong>：修行的两个核心——让心安定（止，奢摩他）与观察思维（观，毗婆舍那）</li><li><strong>六妙门</strong>：数、随、止、观、还、净，从数的安定一路导向洞察我执</li><li><strong>七支坐法</strong>：结跏趺坐、挺腰含胸、双肩平垂、手结定印、下巴内收、舌抵上颚、眼睛微闭</li><li><strong>数息</strong>：先呼后吸为一回合，默数一到十再从头；走神不与妄念对抗，从容从“一”重来</li><li><strong>随息</strong>：数息稳定后舍掉数字，只觉察气息出入与冷暖；心未定时勿急转，以免落入昏沉</li></ul><h4>带走一句</h4><p>每天坐下来，把跑掉的心一次次拉回呼吸——这就是最朴素也最有效的“心的锻炼”。</p><blockquote>原文：「我们的心就像一只调皮的小狗，我们都希望它可以守住“呼吸”这根柱子。」</blockquote>",
+      "source": "02-anxinzhidao/ax-09.md"
+    },
+    {
+      "id": "ax-10",
+      "collection": "book",
+      "origin": "book",
+      "title": "死亡不是终点，是「我」在作祟",
+      "theme": "生死与安顿",
+      "level": "高",
+      "value": [
+        "认知",
+        "内心"
+      ],
+      "spend_money": [
+        "不花钱"
+      ],
+      "spend_time": [
+        "几小时"
+      ],
+      "spend_will": [
+        "一点毅力"
+      ],
+      "tags": [
+        "死亡",
+        "涅槃",
+        "无常",
+        "我执",
+        "寂灭为乐"
+      ],
+      "date": "2026-09",
+      "order": 54,
+      "book": "安心之道：佛学通识十讲",
+      "bookShort": "安心之道",
+      "author": "成庆",
+      "chapter": "第十章 生死与涅槃",
+      "kicker": "第十章",
+      "body": "<h4>这一章在讲什么</h4><p>我们其实一直假装自己不会死。临终者常问“为什么是我”，却毫无准备； 琼瑶公开拒绝抢救，正是想把最后一段路走得自然些。 中国人传统上较少个体性的死亡焦虑，因为个人之死被放进祖先崇拜与香火延续里， 转化为家族共同体的“生”；土家族的“撒尔嗬”丧歌绕棺而舞，如庄子鼓盆而歌，视死者复归自然。 但佛教看得更深：<strong>死亡焦虑的根源是“我执”</strong>——把不断变化的生命现象误认作恒存的“我”， 于是必然抗拒它成住坏空的真相。 那佛陀如何面对生死？他病中仍为周那、须跋陀罗说法，留下“以戒为师”的教导。 死亡既非断灭，也没有真实的“生”，不过是因缘迁流；体认这一点，便是涅槃之乐。</p><blockquote>同一主题另见《人生解忧：佛学入门四十讲》第 34、35、36、37 讲「死亡为何令人畏惧？」「生命的轮回与困境」「佛陀的生死与涅槃」「如何理解净土世界？」。</blockquote><h4>关键概念</h4><ul><li><strong>死亡焦虑</strong>：根源不在死亡本身，而在“我执”——把变化的生命现象误认作恒存的“我”</li><li><strong>中国人的死亡焦虑</strong>：传统靠祖先崇拜与香火延续，把个体之死转化为家族共同体的“生”</li><li><strong>撒尔嗬</strong>：土家族丧歌，绕棺而歌、载歌载舞，如庄子“鼓盆而歌”，视死为复归自然</li><li><strong>涅槃</strong>：不是断灭或消失，而是体认“生”“死”皆幻、只是缘起缘灭，故“寂灭为乐”</li><li><strong>以戒为师</strong>：佛陀入灭前对僧团的最后教导，以戒律作为僧团共处的规则</li></ul><h4>带走一句</h4><p>怕死，怕的其实是“我”要消失；看清“我”本无实体，死亡就不再是一道深渊。</p><blockquote>原文：「诸行无常，是生灭法。生灭灭已，寂灭为乐。」</blockquote>",
+      "source": "02-anxinzhidao/ax-10.md"
     }
   ]
 }
